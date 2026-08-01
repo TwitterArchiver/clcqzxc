@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1855621322220437504",
+    "conversation_id": "2056370904276390193",
+    "created_at": "2026-05-18T13:46:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T14:46:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056370904276390193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1766452473840173056",
+          "start": 3,
+          "username": "mikotossd0106"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056370904276390193",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 70
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055855404178120757",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mikotossd0106: 黄仁勋喝蜜雪冰城要跑到中国，而我家楼下就能喝到，我只能说有人一出生就在罗马"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855621322220437504",
+        "conversation_id": "2056370904276390193",
+        "created_at": "2026-05-18T13:46:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T14:46:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056370904276390193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1766452473840173056",
+              "start": 3,
+              "username": "mikotossd0106"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056370904276390193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 70
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055855404178120757",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mikotossd0106: 黄仁勋喝蜜雪冰城要跑到中国，而我家楼下就能喝到，我只能说有人一出生就在罗马"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766452473840173056",
+        "conversation_id": "2055855404178120757",
+        "created_at": "2026-05-17T03:38:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T04:38:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055855404178120757"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055855404178120757",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 87243,
+          "like_count": 1795,
+          "quote_count": 10,
+          "reply_count": 127,
+          "retweet_count": 70
+        },
+        "reply_settings": "everyone",
+        "text": "黄仁勋喝蜜雪冰城要跑到中国，而我家楼下就能喝到，我只能说有人一出生就在罗马"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-10T14:39:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Berkeley, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.27275,
+                  37.87159
+                ],
+                "type": "Point"
+              },
+              "locality": "Berkeley",
+              "region": "California",
+              "sub_region": "Alameda County"
+            }
+          ]
+        },
+        "description": "喜欢小猫\n08 BPD/双相情感障碍 OD/SelfH友好\n成分复杂 web3/美股/加密货币/摄影/音乐/文学/手游/端游… \n自行避雷 不限圈子 互fo必回",
+        "id": "1855621322220437504",
+        "location": "Berkeley, CA",
+        "name": "草履虫不会骑自行车",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025005442838265856/JBY6xIev_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 769,
+          "like_count": 1864,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 225
+        },
+        "username": "clcqzxc",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-09T13:14:37.000Z",
+        "description": "rim de lacent!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikotossd.net",
+                "end": 23,
+                "expanded_url": "http://mikotossd.net",
+                "start": 0,
+                "url": "https://t.co/hoi4XcP34Y"
+              }
+            ]
+          }
+        },
+        "id": "1766452473840173056",
+        "location": "成都",
+        "name": "御坂鱼坂",
+        "pinned_tweet_id": "2016170324564574213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028471964957110272/CXxZxkpg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1806,
+          "following_count": 1652,
+          "like_count": 87975,
+          "listed_count": 5,
+          "media_count": 1224,
+          "tweet_count": 5590
+        },
+        "url": "https://t.co/hoi4XcP34Y",
+        "username": "mikotossd0106",
+        "verified": true
+      }
+    ]
+  }
+}

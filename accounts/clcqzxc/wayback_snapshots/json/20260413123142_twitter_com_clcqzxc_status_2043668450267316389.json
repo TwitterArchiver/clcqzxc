@@ -1,0 +1,111 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1855621322220437504",
+    "conversation_id": "2043668450267316389",
+    "created_at": "2026-04-13T12:31:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T13:31:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043668450267316389"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2043668450267316389",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "发现割出来的伤口好像一只细长的眼睛。可不可以设定一种生物本来眼睛部位只是平平的肉，主角想要打败它于是一刀横着划开它的脸，细长的伤口慢慢绽开，它缓缓睁开新长出来的眼睛，露出里面的眼球，然后流出血泪。。我在说什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855621322220437504",
+        "conversation_id": "2043668450267316389",
+        "created_at": "2026-04-13T12:31:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T13:31:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043668450267316389"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043668450267316389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发现割出来的伤口好像一只细长的眼睛。可不可以设定一种生物本来眼睛部位只是平平的肉，主角想要打败它于是一刀横着划开它的脸，细长的伤口慢慢绽开，它缓缓睁开新长出来的眼睛，露出里面的眼球，然后流出血泪。。我在说什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-10T14:39:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Berkeley, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.27275,
+                  37.87159
+                ],
+                "type": "Point"
+              },
+              "locality": "Berkeley",
+              "region": "California",
+              "sub_region": "Alameda County"
+            }
+          ]
+        },
+        "description": "喜欢小猫\n08 BPD/双相情感障碍 OD/SelfH友好\nweb3数字世界连接未来 美股/加密货币交易员\n成分复杂 摄影/音乐/文学/手游/端游… \n自行避雷 不限圈子 互fo必回",
+        "id": "1855621322220437504",
+        "location": "Berkeley, CA",
+        "name": "草履虫不会骑自行车",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025005442838265856/JBY6xIev_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 557,
+          "like_count": 1179,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 64
+        },
+        "username": "clcqzxc",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1855621322220437504",
+    "conversation_id": "2034478125934137576",
+    "created_at": "2026-03-20T04:40:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T05:40:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034852543239790676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1660510716934361088",
+          "start": 0,
+          "username": "S_Studio42"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034852543239790676",
+    "in_reply_to_user_id": "1660510716934361088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034478125934137576",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@S_Studio42 有很多奢华酒店或者餐厅的公共卫生间都很干净 还香香的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855621322220437504",
+        "conversation_id": "2034478125934137576",
+        "created_at": "2026-03-20T04:40:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T05:40:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034852543239790676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1660510716934361088",
+              "start": 0,
+              "username": "S_Studio42"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034852543239790676",
+        "in_reply_to_user_id": "1660510716934361088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034478125934137576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@S_Studio42 有很多奢华酒店或者餐厅的公共卫生间都很干净 还香香的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1660510716934361088",
+        "conversation_id": "2034478125934137576",
+        "created_at": "2026-03-19T03:52:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T04:52:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034478125934137576"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034478125934137576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 155616,
+          "like_count": 969,
+          "quote_count": 5,
+          "reply_count": 45,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "我还挺想在什么学校啊公司啊KTV厕所做爱的……但实际上去了这些地方：不行不行好脏好脏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-10T14:39:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Berkeley, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.27275,
+                  37.87159
+                ],
+                "type": "Point"
+              },
+              "locality": "Berkeley",
+              "region": "California",
+              "sub_region": "Alameda County"
+            }
+          ]
+        },
+        "description": "喜欢小猫",
+        "id": "1855621322220437504",
+        "location": "Berkeley, CA",
+        "name": "草履虫不会骑自行车",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025005442838265856/JBY6xIev_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 159,
+          "like_count": 240,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "username": "clcqzxc",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-22T04:59:51.000Z",
+        "description": "在冒犯之前，容许我鞠躬。",
+        "id": "1660510716934361088",
+        "name": "𝐒𝐨𝐭𝐚",
+        "pinned_tweet_id": "1954839686326935914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1717815555242287104/ldxEV5Sk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78559,
+          "following_count": 91,
+          "like_count": 11301,
+          "listed_count": 126,
+          "media_count": 15,
+          "tweet_count": 2388
+        },
+        "username": "S_Studio42",
+        "verified": false
+      }
+    ]
+  }
+}

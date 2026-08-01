@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1855621322220437504",
+    "conversation_id": "2049238984061260030",
+    "created_at": "2026-04-28T21:27:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T22:27:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049238984061260030"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2048970838939160623",
+          "start": 26,
+          "url": "https://t.co/tfWQguPxpI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049238984061260030",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048970838939160623",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有人可能趁你发烧卖假药，但发烧不是卖假药的人发明的 https://t.co/tfWQguPxpI"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 121859,
+        "height": 1280,
+        "media_key": "13_2048969472556535808",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2048969472556535808/img/UHE-RR_4sbxgA0zF.jpg",
+        "public_metrics": {
+          "view_count": 267726
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048969472556535808/vid/avc1/320x568/xw0GBrKDHQbeQVQJ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048969472556535808/vid/avc1/480x852/2fBqSDxxHECLxIJD.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048969472556535808/vid/avc1/720x1280/wUpdhYPmMa7IQaOT.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2048969472556535808/pl/PAa4mc4nMsFZC2x-.m3u8?v=9cc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855621322220437504",
+        "conversation_id": "2049238984061260030",
+        "created_at": "2026-04-28T21:27:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T22:27:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049238984061260030"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2048970838939160623",
+              "start": 26,
+              "url": "https://t.co/tfWQguPxpI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049238984061260030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048970838939160623",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有人可能趁你发烧卖假药，但发烧不是卖假药的人发明的 https://t.co/tfWQguPxpI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2048969472556535808"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2048970838939160623",
+        "created_at": "2026-04-28T03:41:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T04:41:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048970838939160623"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VFIGaA3VJO",
+              "end": 148,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2048970838939160623/video/1",
+              "media_key": "13_2048969472556535808",
+              "start": 125,
+              "url": "https://t.co/VFIGaA3VJO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048970838939160623",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "“躺平危害国家安全”\n4月28日，中国国安部发布“重磅”内容，将近年来在抖音，快手上爆火的“躺平”系主播，定性为被境外势力支持的群体。\n文章称，有境外组织大力资助“躺平网红”，批量生产“躺平即正义”“反内卷=反剥削”短视频，系统性开展“躺平洗脑”。\n“他们只希望我们的青年‘躺平’，将我们的发展红利、战略机遇、民族未来拱手相让”。”"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 722,
+          "impression_count": 1540727,
+          "like_count": 3213,
+          "quote_count": 142,
+          "reply_count": 773,
+          "retweet_count": 391
+        },
+        "reply_settings": "everyone",
+        "text": "“躺平危害国家安全”\n4月28日，中国国安部发布“重磅”内容，将近年来在抖音，快手上爆火的“躺平”系主播，定性为被境外势力支持的群体。\n文章称，有境外组织大力资助“躺平网红”，批量生产“躺平即正义”“反内卷=反剥削”短视频，系统性开展“躺平洗脑”。 https://t.co/VFIGaA3VJO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-10T14:39:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Berkeley, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.27275,
+                  37.87159
+                ],
+                "type": "Point"
+              },
+              "locality": "Berkeley",
+              "region": "California",
+              "sub_region": "Alameda County"
+            }
+          ]
+        },
+        "description": "喜欢小猫\n08 BPD/双相情感障碍 OD/SelfH友好\n成分复杂 web3/美股/加密货币/摄影/音乐/文学/手游/端游… \n自行避雷 不限圈子 互fo必回",
+        "id": "1855621322220437504",
+        "location": "Berkeley, CA",
+        "name": "草履虫不会骑自行车",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025005442838265856/JBY6xIev_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 714,
+          "like_count": 1627,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 180
+        },
+        "username": "clcqzxc",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2019752134674141562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2211070,
+          "following_count": 1038,
+          "like_count": 9448,
+          "listed_count": 8686,
+          "media_count": 45927,
+          "tweet_count": 53015
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

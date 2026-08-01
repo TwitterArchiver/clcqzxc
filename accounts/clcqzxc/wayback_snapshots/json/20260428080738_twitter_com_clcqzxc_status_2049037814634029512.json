@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1855621322220437504",
+    "conversation_id": "2049037814634029512",
+    "created_at": "2026-04-28T08:07:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T09:07:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049037814634029512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1860730309559623680",
+          "start": 3,
+          "username": "ybbyy19"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049037814634029512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 110
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048763409345417346",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ybbyy19: 打扰大家了！🙏🏻🙏🏻🙏🏻麻烦每人转给我两千块出去旅游过五一，谢谢，不是借，是要，我没那么好说话。谢谢大家了，我也是看大家赚钱这么容易才打扰大家，谢谢了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855621322220437504",
+        "conversation_id": "2049037814634029512",
+        "created_at": "2026-04-28T08:07:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T09:07:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049037814634029512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1860730309559623680",
+              "start": 3,
+              "username": "ybbyy19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049037814634029512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 110
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048763409345417346",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ybbyy19: 打扰大家了！🙏🏻🙏🏻🙏🏻麻烦每人转给我两千块出去旅游过五一，谢谢，不是借，是要，我没那么好说话。谢谢大家了，我也是看大家赚钱这么容易才打扰大家，谢谢了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1860730309559623680",
+        "conversation_id": "2048763409345417346",
+        "created_at": "2026-04-27T13:57:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T14:57:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048763409345417346"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048763409345417346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 54504,
+          "like_count": 577,
+          "quote_count": 28,
+          "reply_count": 146,
+          "retweet_count": 110
+        },
+        "reply_settings": "everyone",
+        "text": "打扰大家了！🙏🏻🙏🏻🙏🏻麻烦每人转给我两千块出去旅游过五一，谢谢，不是借，是要，我没那么好说话。谢谢大家了，我也是看大家赚钱这么容易才打扰大家，谢谢了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-10T14:39:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Berkeley, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.27275,
+                  37.87159
+                ],
+                "type": "Point"
+              },
+              "locality": "Berkeley",
+              "region": "California",
+              "sub_region": "Alameda County"
+            }
+          ]
+        },
+        "description": "喜欢小猫\n08 BPD/双相情感障碍 OD/SelfH友好\n成分复杂 web3/美股/加密货币/摄影/音乐/文学/手游/端游… \n自行避雷 不限圈子 互fo必回",
+        "id": "1855621322220437504",
+        "location": "Berkeley, CA",
+        "name": "草履虫不会骑自行车",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025005442838265856/JBY6xIev_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 706,
+          "like_count": 1596,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 174
+        },
+        "username": "clcqzxc",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-24T17:01:00.000Z",
+        "description": "又阳痿了，低素质选手。不是🚪没有🚪，我爱回谁回谁|胖墩子不爱看别看|被烦到就锁推或拉黑，不定时删",
+        "id": "1860730309559623680",
+        "name": "海盐芝士薯片",
+        "pinned_tweet_id": "2036767587493941457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037506051009073152/UV6V_k-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 954,
+          "following_count": 354,
+          "like_count": 28888,
+          "listed_count": 4,
+          "media_count": 45,
+          "tweet_count": 795
+        },
+        "username": "ybbyy19",
+        "verified": false
+      }
+    ]
+  }
+}

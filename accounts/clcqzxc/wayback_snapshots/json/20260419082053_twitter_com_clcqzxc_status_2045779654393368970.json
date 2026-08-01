@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1855621322220437504",
+    "conversation_id": "2045779654393368970",
+    "created_at": "2026-04-19T08:20:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T09:20:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045779654393368970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "51904755",
+          "start": 3,
+          "username": "Morris_LT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045779654393368970",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 262
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024298893920653581",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Morris_LT: 一定要培养自己坚不可摧的内核，要做到不要可怜自己，就是不要莫名其妙的有委屈感。什么原生家庭不好呀，工作不顺利呀，为什么打拼世界这么苦呀，不要哀怨。记住很重要的一点，你不要入任何人的局，任何人说什么都不重要，因为你的世界你做主。他人的评价不要入耳，不…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855621322220437504",
+        "conversation_id": "2045779654393368970",
+        "created_at": "2026-04-19T08:20:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T09:20:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045779654393368970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "51904755",
+              "start": 3,
+              "username": "Morris_LT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045779654393368970",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 262
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024298893920653581",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Morris_LT: 一定要培养自己坚不可摧的内核，要做到不要可怜自己，就是不要莫名其妙的有委屈感。什么原生家庭不好呀，工作不顺利呀，为什么打拼世界这么苦呀，不要哀怨。记住很重要的一点，你不要入任何人的局，任何人说什么都不重要，因为你的世界你做主。他人的评价不要入耳，不…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "51904755",
+        "conversation_id": "2024298893920653581",
+        "created_at": "2026-02-19T01:44:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T02:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024298893920653581"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024298893920653581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "一定要培养自己坚不可摧的内核，要做到不要可怜自己，就是不要莫名其妙的有委屈感。什么原生家庭不好呀，工作不顺利呀，为什么打拼世界这么苦呀，不要哀怨。记住很重要的一点，你不要入任何人的局，任何人说什么都不重要，因为你的世界你做主。他人的评价不要入耳，不要期待任何人的认可，因为他人的态度与你无关。任何时候都不要有委屈感，不要向外界去期待，期待父母帮衬，期待朋友帮忙，期待贵人相助，这种向外求注定你会受伤害的。真相是没有人来。我从来不花时间去感受背叛，我始终告诉我自己，我不是受害者，我是幸存者。成长唯一的途径就是早点经历挫折和教训，然后找点儿醒悟。人生没有白走的路，越早经历，越早矫正，很喜欢的一个词儿叫不破不立，有些东西必须摧毁才能赢得新生。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 484,
+          "impression_count": 64686,
+          "like_count": 1333,
+          "quote_count": 7,
+          "reply_count": 20,
+          "retweet_count": 262
+        },
+        "reply_settings": "everyone",
+        "text": "一定要培养自己坚不可摧的内核，要做到不要可怜自己，就是不要莫名其妙的有委屈感。什么原生家庭不好呀，工作不顺利呀，为什么打拼世界这么苦呀，不要哀怨。记住很重要的一点，你不要入任何人的局，任何人说什么都不重要，因为你的世界你做主。他人的评价不要入耳，不要期待任何人的认可，因为他人的态"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-10T14:39:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Berkeley, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.27275,
+                  37.87159
+                ],
+                "type": "Point"
+              },
+              "locality": "Berkeley",
+              "region": "California",
+              "sub_region": "Alameda County"
+            }
+          ]
+        },
+        "description": "喜欢小猫\n08 BPD/双相情感障碍 OD/SelfH友好\nweb3数字世界连接未来 美股/加密货币交易员\n成分复杂 摄影/音乐/文学/手游/端游… \n自行避雷 不限圈子 互fo必回",
+        "id": "1855621322220437504",
+        "location": "Berkeley, CA",
+        "name": "草履虫不会骑自行车",
+        "pinned_tweet_id": "2044324882364948718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025005442838265856/JBY6xIev_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 656,
+          "like_count": 1362,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 117
+        },
+        "username": "clcqzxc",
+        "verified": true
+      },
+      {
+        "created_at": "2009-06-29T01:07:03.000Z",
+        "description": "某不知名Web3.0创业公司 - 创始人&CEO&首席擦屁股执行官！#Bitcoin 和 #Dogecoin 信仰者、老韭菜、囤币党。《旷野之心》作者，私信开放订购：https://t.co/W2fM1ccAiv",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 42,
+                "start": 34,
+                "tag": "Bitcoin"
+              },
+              {
+                "end": 54,
+                "start": 45,
+                "tag": "Dogecoin"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/Morris_LT/stat…",
+                "end": 106,
+                "expanded_url": "https://x.com/Morris_LT/status/1912318899540095446",
+                "start": 83,
+                "url": "https://t.co/W2fM1ccAiv"
+              }
+            ]
+          }
+        },
+        "id": "51904755",
+        "location": "𝕏Ɖ",
+        "name": "Morris",
+        "pinned_tweet_id": "2045717402852422016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1661240746018754560/8Shwdpaj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197269,
+          "following_count": 412,
+          "like_count": 54202,
+          "listed_count": 1087,
+          "media_count": 7099,
+          "tweet_count": 73049
+        },
+        "username": "Morris_LT",
+        "verified": true
+      }
+    ]
+  }
+}

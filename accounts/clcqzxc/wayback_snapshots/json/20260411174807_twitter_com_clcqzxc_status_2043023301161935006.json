@@ -1,0 +1,384 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042950916677210115",
+        "3_2042950916664659968",
+        "3_2042950916714958848",
+        "3_2042950916710780928"
+      ],
+      "media_source_tweet_id": [
+        "2042950927498514688",
+        "2042950927498514688",
+        "2042950927498514688",
+        "2042950927498514688"
+      ]
+    },
+    "author_id": "1855621322220437504",
+    "conversation_id": "2043023301161935006",
+    "created_at": "2026-04-11T17:48:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T18:48:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043023301161935006"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 17,
+          "tag": "春の創作クラスタフォロー祭り"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1834589638260117504",
+          "start": 3,
+          "username": "Leku_suzuno"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rrBc7fE6Z8",
+          "end": 56,
+          "expanded_url": "https://x.com/Leku_suzuno/status/2042950927498514688/photo/1",
+          "media_key": "3_2042950916677210115",
+          "start": 33,
+          "url": "https://t.co/rrBc7fE6Z8"
+        },
+        {
+          "display_url": "pic.x.com/rrBc7fE6Z8",
+          "end": 56,
+          "expanded_url": "https://x.com/Leku_suzuno/status/2042950927498514688/photo/1",
+          "media_key": "3_2042950916664659968",
+          "start": 33,
+          "url": "https://t.co/rrBc7fE6Z8"
+        },
+        {
+          "display_url": "pic.x.com/rrBc7fE6Z8",
+          "end": 56,
+          "expanded_url": "https://x.com/Leku_suzuno/status/2042950927498514688/photo/1",
+          "media_key": "3_2042950916714958848",
+          "start": 33,
+          "url": "https://t.co/rrBc7fE6Z8"
+        },
+        {
+          "display_url": "pic.x.com/rrBc7fE6Z8",
+          "end": 56,
+          "expanded_url": "https://x.com/Leku_suzuno/status/2042950927498514688/photo/1",
+          "media_key": "3_2042950916710780928",
+          "start": 33,
+          "url": "https://t.co/rrBc7fE6Z8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043023301161935006",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042950927498514688",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Leku_suzuno: #春の創作クラスタフォロー祭り https://t.co/rrBc7fE6Z8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2042950916677210115",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFoFCOIakAMynaO.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1298,
+        "media_key": "3_2042950916664659968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFoFCOFbEAAuC52.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1348,
+        "media_key": "3_2042950916714958848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFoFCORakAAMgY-.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1248,
+        "media_key": "3_2042950916710780928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFoFCOQa0AAV607.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042950916677210115",
+            "3_2042950916664659968",
+            "3_2042950916714958848",
+            "3_2042950916710780928"
+          ],
+          "media_source_tweet_id": [
+            "2042950927498514688",
+            "2042950927498514688",
+            "2042950927498514688",
+            "2042950927498514688"
+          ]
+        },
+        "author_id": "1855621322220437504",
+        "conversation_id": "2043023301161935006",
+        "created_at": "2026-04-11T17:48:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T18:48:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043023301161935006"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 17,
+              "tag": "春の創作クラスタフォロー祭り"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1834589638260117504",
+              "start": 3,
+              "username": "Leku_suzuno"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rrBc7fE6Z8",
+              "end": 56,
+              "expanded_url": "https://x.com/Leku_suzuno/status/2042950927498514688/photo/1",
+              "media_key": "3_2042950916677210115",
+              "start": 33,
+              "url": "https://t.co/rrBc7fE6Z8"
+            },
+            {
+              "display_url": "pic.x.com/rrBc7fE6Z8",
+              "end": 56,
+              "expanded_url": "https://x.com/Leku_suzuno/status/2042950927498514688/photo/1",
+              "media_key": "3_2042950916664659968",
+              "start": 33,
+              "url": "https://t.co/rrBc7fE6Z8"
+            },
+            {
+              "display_url": "pic.x.com/rrBc7fE6Z8",
+              "end": 56,
+              "expanded_url": "https://x.com/Leku_suzuno/status/2042950927498514688/photo/1",
+              "media_key": "3_2042950916714958848",
+              "start": 33,
+              "url": "https://t.co/rrBc7fE6Z8"
+            },
+            {
+              "display_url": "pic.x.com/rrBc7fE6Z8",
+              "end": 56,
+              "expanded_url": "https://x.com/Leku_suzuno/status/2042950927498514688/photo/1",
+              "media_key": "3_2042950916710780928",
+              "start": 33,
+              "url": "https://t.co/rrBc7fE6Z8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043023301161935006",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042950927498514688",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Leku_suzuno: #春の創作クラスタフォロー祭り https://t.co/rrBc7fE6Z8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042950916677210115",
+            "3_2042950916664659968",
+            "3_2042950916714958848",
+            "3_2042950916710780928"
+          ]
+        },
+        "author_id": "1834589638260117504",
+        "conversation_id": "2042950927498514688",
+        "created_at": "2026-04-11T13:00:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T14:00:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042950927498514688"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 0,
+              "tag": "春の創作クラスタフォロー祭り"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rrBc7fE6Z8",
+              "end": 39,
+              "expanded_url": "https://x.com/Leku_suzuno/status/2042950927498514688/photo/1",
+              "media_key": "3_2042950916677210115",
+              "start": 16,
+              "url": "https://t.co/rrBc7fE6Z8"
+            },
+            {
+              "display_url": "pic.x.com/rrBc7fE6Z8",
+              "end": 39,
+              "expanded_url": "https://x.com/Leku_suzuno/status/2042950927498514688/photo/1",
+              "media_key": "3_2042950916664659968",
+              "start": 16,
+              "url": "https://t.co/rrBc7fE6Z8"
+            },
+            {
+              "display_url": "pic.x.com/rrBc7fE6Z8",
+              "end": 39,
+              "expanded_url": "https://x.com/Leku_suzuno/status/2042950927498514688/photo/1",
+              "media_key": "3_2042950916714958848",
+              "start": 16,
+              "url": "https://t.co/rrBc7fE6Z8"
+            },
+            {
+              "display_url": "pic.x.com/rrBc7fE6Z8",
+              "end": 39,
+              "expanded_url": "https://x.com/Leku_suzuno/status/2042950927498514688/photo/1",
+              "media_key": "3_2042950916710780928",
+              "start": 16,
+              "url": "https://t.co/rrBc7fE6Z8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042950927498514688",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1128,
+          "like_count": 81,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "#春の創作クラスタフォロー祭り https://t.co/rrBc7fE6Z8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-10T14:39:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Berkeley, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.27275,
+                  37.87159
+                ],
+                "type": "Point"
+              },
+              "locality": "Berkeley",
+              "region": "California",
+              "sub_region": "Alameda County"
+            }
+          ]
+        },
+        "description": "喜欢小猫\n08 BPD/双相情感障碍 OD/SelfH友好\nweb3数字世界连接未来 美股/加密货币交易员\n成分复杂 摄影/音乐/文学/手游/端游… \n自行避雷 不限圈子 互fo必回",
+        "id": "1855621322220437504",
+        "location": "Berkeley, CA",
+        "name": "草履虫不会骑自行车",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025005442838265856/JBY6xIev_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 491,
+          "like_count": 1099,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 53
+        },
+        "username": "clcqzxc",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-13T13:47:23.000Z",
+        "description": "contact→leku.works@gmail.com",
+        "id": "1834589638260117504",
+        "name": "Leku",
+        "pinned_tweet_id": "2012566352528331176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962130153544515584/qEKULkSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 732,
+          "following_count": 58,
+          "like_count": 4223,
+          "listed_count": 5,
+          "media_count": 69,
+          "tweet_count": 319
+        },
+        "username": "Leku_suzuno",
+        "verified": false
+      }
+    ]
+  }
+}

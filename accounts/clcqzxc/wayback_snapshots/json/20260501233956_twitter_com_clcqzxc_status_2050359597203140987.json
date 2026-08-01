@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049824438649282560"
+      ],
+      "media_source_tweet_id": [
+        "2049824442461888848"
+      ]
+    },
+    "author_id": "1855621322220437504",
+    "conversation_id": "2050359597203140987",
+    "created_at": "2026-05-01T23:39:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T00:39:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050359597203140987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1778850117933838337",
+          "start": 3,
+          "username": "TBduyu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XicDmw3XVV",
+          "end": 35,
+          "expanded_url": "https://x.com/TBduyu/status/2049824442461888848/photo/1",
+          "media_key": "3_2049824438649282560",
+          "start": 12,
+          "url": "https://t.co/XicDmw3XVV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050359597203140987",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 417
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049824442461888848",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TBduyu: https://t.co/XicDmw3XVV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1472,
+        "media_key": "3_2049824438649282560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHJwd22a4AABhQP.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049824438649282560"
+          ],
+          "media_source_tweet_id": [
+            "2049824442461888848"
+          ]
+        },
+        "author_id": "1855621322220437504",
+        "conversation_id": "2050359597203140987",
+        "created_at": "2026-05-01T23:39:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T00:39:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050359597203140987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1778850117933838337",
+              "start": 3,
+              "username": "TBduyu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XicDmw3XVV",
+              "end": 35,
+              "expanded_url": "https://x.com/TBduyu/status/2049824442461888848/photo/1",
+              "media_key": "3_2049824438649282560",
+              "start": 12,
+              "url": "https://t.co/XicDmw3XVV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050359597203140987",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 417
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049824442461888848",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TBduyu: https://t.co/XicDmw3XVV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049824438649282560"
+          ]
+        },
+        "author_id": "1778850117933838337",
+        "conversation_id": "2049824442461888848",
+        "created_at": "2026-04-30T12:13:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T13:13:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049824442461888848"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XicDmw3XVV",
+              "end": 23,
+              "expanded_url": "https://x.com/TBduyu/status/2049824442461888848/photo/1",
+              "media_key": "3_2049824438649282560",
+              "start": 0,
+              "url": "https://t.co/XicDmw3XVV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049824442461888848",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 91,
+          "impression_count": 154937,
+          "like_count": 7375,
+          "quote_count": 37,
+          "reply_count": 79,
+          "retweet_count": 417
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/XicDmw3XVV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-10T14:39:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Berkeley, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.27275,
+                  37.87159
+                ],
+                "type": "Point"
+              },
+              "locality": "Berkeley",
+              "region": "California",
+              "sub_region": "Alameda County"
+            }
+          ]
+        },
+        "description": "喜欢小猫\n08 BPD/双相情感障碍 OD/SelfH友好\n成分复杂 web3/美股/加密货币/摄影/音乐/文学/手游/端游… \n自行避雷 不限圈子 互fo必回",
+        "id": "1855621322220437504",
+        "location": "Berkeley, CA",
+        "name": "草履虫不会骑自行车",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025005442838265856/JBY6xIev_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 745,
+          "like_count": 1717,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 203
+        },
+        "username": "clcqzxc",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-12T18:19:16.000Z",
+        "description": "高一小孩，苦逼文科生\n 喜欢毛茸茸 \n  目前：在学英语，在学画画（画毛茸茸\n@supernovaArcaea 成员\n //  @aoim33良师益友\n\n梗图搬运机（等我过了创作者收益之后一定不搬了！）\n图片来源网络，真假自辩，如侵权请联系删除",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 39,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 71,
+                "start": 64,
+                "username": "aoim33"
+              }
+            ]
+          }
+        },
+        "id": "1778850117933838337",
+        "location": "My home/school",
+        "name": "tabiame",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012595656427507712/hYb59Egh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 607,
+          "following_count": 1533,
+          "like_count": 13760,
+          "listed_count": 1,
+          "media_count": 197,
+          "tweet_count": 1155
+        },
+        "username": "TBduyu",
+        "verified": true
+      }
+    ]
+  }
+}

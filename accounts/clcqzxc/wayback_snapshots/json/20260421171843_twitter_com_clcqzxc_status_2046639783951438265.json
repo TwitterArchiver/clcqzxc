@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1855621322220437504",
+    "conversation_id": "2046495973736845429",
+    "created_at": "2026-04-21T17:18:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T18:18:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046639783951438265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1504090019971010562",
+          "start": 0,
+          "username": "Deepfeeling777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046639783951438265",
+    "in_reply_to_user_id": "1504090019971010562",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046495973736845429",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Deepfeeling777 一个月买了四个不同的vpn了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855621322220437504",
+        "conversation_id": "2046495973736845429",
+        "created_at": "2026-04-21T17:18:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T18:18:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046639783951438265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1504090019971010562",
+              "start": 0,
+              "username": "Deepfeeling777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046639783951438265",
+        "in_reply_to_user_id": "1504090019971010562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046495973736845429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Deepfeeling777 一个月买了四个不同的vpn了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504090019971010562",
+        "conversation_id": "2046495973736845429",
+        "created_at": "2026-04-21T07:47:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T08:47:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046495973736845429"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046495973736845429",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 241748,
+          "like_count": 77,
+          "quote_count": 0,
+          "reply_count": 176,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "国内VPN彻底拉闸了？你们推特咋上来的各位精英"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-10T14:39:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Berkeley, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.27275,
+                  37.87159
+                ],
+                "type": "Point"
+              },
+              "locality": "Berkeley",
+              "region": "California",
+              "sub_region": "Alameda County"
+            }
+          ]
+        },
+        "description": "喜欢小猫\n08 BPD/双相情感障碍 OD/SelfH友好\nweb3数字世界连接未来 美股/加密货币交易员\n成分复杂 摄影/音乐/文学/手游/端游… \n自行避雷 不限圈子 互fo必回",
+        "id": "1855621322220437504",
+        "location": "Berkeley, CA",
+        "name": "草履虫不会骑自行车",
+        "pinned_tweet_id": "2044324882364948718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025005442838265856/JBY6xIev_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 668,
+          "like_count": 1436,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 142
+        },
+        "username": "clcqzxc",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-16T13:39:52.000Z",
+        "description": "希望大家能在X上开心快乐冲浪，晚上一定要大脑控制住小脑！不要上当受骗哟~  啵啵🫶 @uaresocute2__",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 42,
+                "username": "uaresocute2__"
+              }
+            ]
+          }
+        },
+        "id": "1504090019971010562",
+        "location": "HK",
+        "name": "第一深情",
+        "pinned_tweet_id": "2046264873190031649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034252985665249280/9GawZfA0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231020,
+          "following_count": 4,
+          "like_count": 39,
+          "listed_count": 237,
+          "media_count": 141,
+          "tweet_count": 1118
+        },
+        "username": "Deepfeeling777",
+        "verified": true
+      }
+    ]
+  }
+}

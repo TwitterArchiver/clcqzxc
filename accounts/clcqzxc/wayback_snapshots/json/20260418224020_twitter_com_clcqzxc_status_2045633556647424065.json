@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1855621322220437504",
+    "conversation_id": "2045633556647424065",
+    "created_at": "2026-04-18T22:40:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T23:40:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045633556647424065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1861074016787988480",
+          "start": 3,
+          "username": "Ww998_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045633556647424065",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045086309618721274",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ww998_: 我初中的时候一直觉得谈恋爱男生手上带个发绳有啥用啊。戴项圈才是对的。现在也这么觉得。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855621322220437504",
+        "conversation_id": "2045633556647424065",
+        "created_at": "2026-04-18T22:40:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T23:40:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045633556647424065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1861074016787988480",
+              "start": 3,
+              "username": "Ww998_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045633556647424065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045086309618721274",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ww998_: 我初中的时候一直觉得谈恋爱男生手上带个发绳有啥用啊。戴项圈才是对的。现在也这么觉得。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1861074016787988480",
+        "conversation_id": "2045086309618721274",
+        "created_at": "2026-04-17T10:25:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T11:25:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045086309618721274"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045086309618721274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 41181,
+          "like_count": 577,
+          "quote_count": 8,
+          "reply_count": 74,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "我初中的时候一直觉得谈恋爱男生手上带个发绳有啥用啊。戴项圈才是对的。现在也这么觉得。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-10T14:39:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Berkeley, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.27275,
+                  37.87159
+                ],
+                "type": "Point"
+              },
+              "locality": "Berkeley",
+              "region": "California",
+              "sub_region": "Alameda County"
+            }
+          ]
+        },
+        "description": "喜欢小猫\n08 BPD/双相情感障碍 OD/SelfH友好\nweb3数字世界连接未来 美股/加密货币交易员\n成分复杂 摄影/音乐/文学/手游/端游… \n自行避雷 不限圈子 互fo必回",
+        "id": "1855621322220437504",
+        "location": "Berkeley, CA",
+        "name": "草履虫不会骑自行车",
+        "pinned_tweet_id": "2044324882364948718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025005442838265856/JBY6xIev_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 654,
+          "like_count": 1332,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 94
+        },
+        "username": "clcqzxc",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-25T15:46:49.000Z",
+        "description": "@BelikeOOO\n🐖🐖🐖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "BelikeOOO"
+              }
+            ]
+          }
+        },
+        "id": "1861074016787988480",
+        "name": "f for fulfilment",
+        "pinned_tweet_id": "2024303741751689237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910370328389574657/35y-rzDp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1238,
+          "following_count": 3,
+          "like_count": 2644,
+          "listed_count": 2,
+          "media_count": 616,
+          "tweet_count": 4558
+        },
+        "username": "Ww998_",
+        "verified": false
+      }
+    ]
+  }
+}

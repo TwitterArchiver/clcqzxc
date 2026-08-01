@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1855621322220437504",
+    "conversation_id": "2044761152589377651",
+    "created_at": "2026-04-16T12:53:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T13:53:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044761152589377651"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "902839045356744704",
+          "start": 3,
+          "username": "justinsuntron"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044761152589377651",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044731901462917491",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @justinsuntron: 我太懂你这种感觉了！！最直接、最真相、最不绕弯、最扎心、最硬核、最干脆、最不墨迹、最戳痛点、最不留情面、最一针见血、最开门见山、最单刀直入、最不铺垫、最不客套、最不煽情、最不废话、最不拐弯、最不磨叽、最不装、最不端着、最不啰嗦、最不拖沓、最…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2044731892013109248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGBY0oRakAA2lz0.jpg",
+        "width": 1848
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855621322220437504",
+        "conversation_id": "2044761152589377651",
+        "created_at": "2026-04-16T12:53:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T13:53:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044761152589377651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "902839045356744704",
+              "start": 3,
+              "username": "justinsuntron"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044761152589377651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044731901462917491",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @justinsuntron: 我太懂你这种感觉了！！最直接、最真相、最不绕弯、最扎心、最硬核、最干脆、最不墨迹、最戳痛点、最不留情面、最一针见血、最开门见山、最单刀直入、最不铺垫、最不客套、最不煽情、最不废话、最不拐弯、最不磨叽、最不装、最不端着、最不啰嗦、最不拖沓、最…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044731892013109248"
+          ]
+        },
+        "author_id": "902839045356744704",
+        "conversation_id": "2044731901462917491",
+        "created_at": "2026-04-16T10:57:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T11:57:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044731901462917491"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S0qKocCVIb",
+              "end": 164,
+              "expanded_url": "https://x.com/justinsuntron/status/2044731901462917491/photo/1",
+              "media_key": "3_2044731892013109248",
+              "start": 141,
+              "url": "https://t.co/S0qKocCVIb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044731901462917491",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我太懂你这种感觉了！！最直接、最真相、最不绕弯、最扎心、最硬核、最干脆、最不墨迹、最戳痛点、最不留情面、最一针见血、最开门见山、最单刀直入、最不铺垫、最不客套、最不煽情、最不废话、最不拐弯、最不磨叽、最不装、最不端着、最不啰嗦、最不拖沓、最不委婉、最不掩饰、最不藏着掖着、最直白、最露骨、最实在、最通透、最毒辣、最爽快、最解气、最上头、最够劲、最过瘾、最粗暴、最有效、最狠、最准、最稳、最绝、最顶、最炸、最刚、最烈、最飒、最莽、最冲、最猛、最脆、最亮、最透、最干、最净、最利落、最霸道、最硬核、最生猛、最狂野、最直白、最粗暴、最不讲虚的、最不玩套路、最不搞形式、最不整虚头巴脑、最只讲干货、最只说重点、最只给结果、最只聊真相、最只谈核心、最只戳关键的方式来告诉你。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 48293,
+          "like_count": 322,
+          "quote_count": 12,
+          "reply_count": 189,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "我太懂你这种感觉了！！最直接、最真相、最不绕弯、最扎心、最硬核、最干脆、最不墨迹、最戳痛点、最不留情面、最一针见血、最开门见山、最单刀直入、最不铺垫、最不客套、最不煽情、最不废话、最不拐弯、最不磨叽、最不装、最不端着、最不啰嗦、最不拖沓、最不委婉、最不掩饰、最不藏着掖着、最直白、 https://t.co/S0qKocCVIb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-10T14:39:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Berkeley, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.27275,
+                  37.87159
+                ],
+                "type": "Point"
+              },
+              "locality": "Berkeley",
+              "region": "California",
+              "sub_region": "Alameda County"
+            }
+          ]
+        },
+        "description": "喜欢小猫\n08 BPD/双相情感障碍 OD/SelfH友好\nweb3数字世界连接未来 美股/加密货币交易员\n成分复杂 摄影/音乐/文学/手游/端游… \n自行避雷 不限圈子 互fo必回",
+        "id": "1855621322220437504",
+        "location": "Berkeley, CA",
+        "name": "草履虫不会骑自行车",
+        "pinned_tweet_id": "2044324882364948718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025005442838265856/JBY6xIev_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 635,
+          "like_count": 1280,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 88
+        },
+        "username": "clcqzxc",
+        "verified": true
+      },
+      {
+        "created_at": "2017-08-30T10:22:57.000Z",
+        "description": "👨‍💻 Entrepreneur | 🤵‍♂️ Diplomat | 👨‍🚀 Astronaut #712 | 🍌 Art Collector | Founder @trondao | Advisor https://t.co/o9xGaETpdH https://t.co/Y1UfwSJ8ko https://t.co/GSEqOn3haH | Chinese @sunyuchentron",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 82,
+                "username": "trondao"
+              },
+              {
+                "end": 197,
+                "start": 183,
+                "username": "sunyuchentron"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "b.ai",
+                "end": 124,
+                "expanded_url": "http://b.ai",
+                "start": 101,
+                "url": "https://t.co/o9xGaETpdH"
+              },
+              {
+                "display_url": "bt.io",
+                "end": 148,
+                "expanded_url": "http://bt.io",
+                "start": 125,
+                "url": "https://t.co/Y1UfwSJ8ko"
+              },
+              {
+                "display_url": "htx.com",
+                "end": 172,
+                "expanded_url": "http://htx.com",
+                "start": 149,
+                "url": "https://t.co/GSEqOn3haH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b.ai",
+                "end": 23,
+                "expanded_url": "http://b.ai",
+                "start": 0,
+                "url": "https://t.co/o9xGaETpdH"
+              }
+            ]
+          }
+        },
+        "id": "902839045356744704",
+        "location": "Geneva, Switzerland",
+        "name": "H.E. Justin Sun 👨‍🚀 🌞",
+        "pinned_tweet_id": "1905324113851547790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3955134,
+          "following_count": 3667,
+          "like_count": 9857,
+          "listed_count": 12519,
+          "media_count": 3098,
+          "tweet_count": 21938
+        },
+        "url": "https://t.co/o9xGaETpdH",
+        "username": "justinsuntron",
+        "verified": true
+      }
+    ]
+  }
+}

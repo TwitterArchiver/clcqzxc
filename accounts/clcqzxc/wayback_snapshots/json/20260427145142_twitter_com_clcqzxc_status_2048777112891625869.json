@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048644181648969728"
+      ],
+      "media_source_tweet_id": [
+        "2048644189685219514"
+      ]
+    },
+    "author_id": "1855621322220437504",
+    "conversation_id": "2048777112891625869",
+    "created_at": "2026-04-27T14:51:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T15:51:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048777112891625869"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1982449259774656512",
+          "start": 3,
+          "username": "smiroyama"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cJD2QkcKuh",
+          "end": 58,
+          "expanded_url": "https://x.com/smiroyama/status/2048644189685219514/photo/1",
+          "media_key": "3_2048644181648969728",
+          "start": 35,
+          "url": "https://t.co/cJD2QkcKuh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048777112891625869",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 68
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048644189685219514",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @smiroyama: 初音未来的发色在不同画师的笔下长这样： https://t.co/cJD2QkcKuh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 447,
+        "media_key": "3_2048644181648969728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG4_B25bkAAngkI.jpg",
+        "width": 447
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048644181648969728"
+          ],
+          "media_source_tweet_id": [
+            "2048644189685219514"
+          ]
+        },
+        "author_id": "1855621322220437504",
+        "conversation_id": "2048777112891625869",
+        "created_at": "2026-04-27T14:51:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T15:51:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048777112891625869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1982449259774656512",
+              "start": 3,
+              "username": "smiroyama"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cJD2QkcKuh",
+              "end": 58,
+              "expanded_url": "https://x.com/smiroyama/status/2048644189685219514/photo/1",
+              "media_key": "3_2048644181648969728",
+              "start": 35,
+              "url": "https://t.co/cJD2QkcKuh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048777112891625869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 68
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048644189685219514",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @smiroyama: 初音未来的发色在不同画师的笔下长这样： https://t.co/cJD2QkcKuh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048644181648969728"
+          ]
+        },
+        "author_id": "1982449259774656512",
+        "conversation_id": "2048644189685219514",
+        "created_at": "2026-04-27T06:03:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T07:03:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048644189685219514"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cJD2QkcKuh",
+              "end": 43,
+              "expanded_url": "https://x.com/smiroyama/status/2048644189685219514/photo/1",
+              "media_key": "3_2048644181648969728",
+              "start": 20,
+              "url": "https://t.co/cJD2QkcKuh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048644189685219514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 38450,
+          "like_count": 1610,
+          "quote_count": 1,
+          "reply_count": 28,
+          "retweet_count": 68
+        },
+        "reply_settings": "everyone",
+        "text": "初音未来的发色在不同画师的笔下长这样： https://t.co/cJD2QkcKuh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-10T14:39:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Berkeley, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.27275,
+                  37.87159
+                ],
+                "type": "Point"
+              },
+              "locality": "Berkeley",
+              "region": "California",
+              "sub_region": "Alameda County"
+            }
+          ]
+        },
+        "description": "喜欢小猫\n08 BPD/双相情感障碍 OD/SelfH友好\n成分复杂 web3/美股/加密货币/摄影/音乐/文学/手游/端游… \n自行避雷 不限圈子 互fo必回",
+        "id": "1855621322220437504",
+        "location": "Berkeley, CA",
+        "name": "草履虫不会骑自行车",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025005442838265856/JBY6xIev_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 695,
+          "like_count": 1583,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 168
+        },
+        "username": "clcqzxc",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "sharing and making some funny memes\nDeveloping https://t.co/pJ9VtduSxe 🍥\nfriends🥰: @Huang_Yut1ng @fukui_p26 @qianxunchan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 83,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 107,
+                "start": 97,
+                "username": "fukui_p26"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "qianxunchan"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hrt.mahiro.uk",
+                "end": 70,
+                "expanded_url": "http://hrt.mahiro.uk",
+                "start": 47,
+                "url": "https://t.co/pJ9VtduSxe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDopW0"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "location": "绪山寺",
+        "name": "Smirnova 🏳️‍⚧️🍡",
+        "pinned_tweet_id": "2044751664612323796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046272487093313536/37Hos-Hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3929,
+          "following_count": 2061,
+          "like_count": 9084,
+          "listed_count": 11,
+          "media_count": 1349,
+          "tweet_count": 5522
+        },
+        "url": "https://t.co/YPl1rDopW0",
+        "username": "smiroyama",
+        "verified": true
+      }
+    ]
+  }
+}

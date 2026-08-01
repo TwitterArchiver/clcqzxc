@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1855621322220437504",
+    "conversation_id": "2060808415325388955",
+    "created_at": "2026-05-30T19:39:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T20:39:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060808415325388955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "109274193",
+          "start": 3,
+          "username": "armygl33girl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060808415325388955",
+    "lang": "th",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9882
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060683425091334349",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @armygl33girl: ชอบการเดินทางคนเดียวจัง คงจะดีกว่านี้ถ้าโลกนี้ไม่อันตรายสำหรับผู้หญิง"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855621322220437504",
+        "conversation_id": "2060808415325388955",
+        "created_at": "2026-05-30T19:39:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T20:39:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060808415325388955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "109274193",
+              "start": 3,
+              "username": "armygl33girl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060808415325388955",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9882
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060683425091334349",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @armygl33girl: ชอบการเดินทางคนเดียวจัง คงจะดีกว่านี้ถ้าโลกนี้ไม่อันตรายสำหรับผู้หญิง"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "109274193",
+        "conversation_id": "2060683425091334349",
+        "created_at": "2026-05-30T11:23:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T12:23:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060683425091334349"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060683425091334349",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 362,
+          "impression_count": 249661,
+          "like_count": 9817,
+          "quote_count": 70,
+          "reply_count": 57,
+          "retweet_count": 9882
+        },
+        "reply_settings": "everyone",
+        "text": "ชอบการเดินทางคนเดียวจัง คงจะดีกว่านี้ถ้าโลกนี้ไม่อันตรายสำหรับผู้หญิง"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-10T14:39:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Berkeley, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.27275,
+                  37.87159
+                ],
+                "type": "Point"
+              },
+              "locality": "Berkeley",
+              "region": "California",
+              "sub_region": "Alameda County"
+            }
+          ]
+        },
+        "description": "喜欢小猫\n08 顺女 BPD/双相情感障碍 OD/SelfH/跨友好\n成分复杂 web3/美股/加密货币/摄影/音乐/文学/手游/端游… \n自行避雷 不限圈子 互fo必回",
+        "id": "1855621322220437504",
+        "location": "Berkeley, CA",
+        "name": "草履虫不会骑自行车",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025005442838265856/JBY6xIev_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 843,
+          "like_count": 2104,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 262
+        },
+        "username": "clcqzxc",
+        "verified": false
+      },
+      {
+        "created_at": "2010-01-28T14:28:23.000Z",
+        "description": "𓂃` 𝑴𝒂𝒊𝒏𝒍𝒚 𝒘𝒊𝒕𝒉 BTS RVV 1D Polycat Tilly Birds TAYLOR SWIFT DAY6 IU WOODZ ⋆⁺ Haruma Miura Bella Ranee Yada Mikeyyy ✨ #LFC #Barca #MESSI",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "LFC"
+              },
+              {
+                "end": 127,
+                "start": 121,
+                "tag": "Barca"
+              },
+              {
+                "end": 134,
+                "start": 128,
+                "tag": "MESSI"
+              }
+            ]
+          }
+        },
+        "id": "109274193",
+        "location": "V, IRENE, ZAYN ",
+        "name": "⁺ ◟ 𝘻𝘪𝘮𝘣𝘢𝘻𝘢𝘭𝘢𝘣𝘪𝘮 ⁷ ♫♪",
+        "pinned_tweet_id": "1604550507304869888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883831751002460160/mVrgqAsT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4683,
+          "following_count": 2485,
+          "like_count": 211315,
+          "listed_count": 7,
+          "media_count": 8459,
+          "tweet_count": 346384
+        },
+        "username": "armygl33girl",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050108328836231168"
+      ],
+      "media_source_tweet_id": [
+        "2050294181713899767"
+      ]
+    },
+    "author_id": "1855621322220437504",
+    "conversation_id": "2050507849739178003",
+    "created_at": "2026-05-02T09:29:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T10:29:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050507849739178003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "7176332",
+          "start": 3,
+          "username": "Miaw"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rXZJ7YFCSk",
+          "end": 33,
+          "expanded_url": "https://x.com/Miaw/status/2050294181713899767/photo/1",
+          "media_key": "3_2050108328836231168",
+          "start": 10,
+          "url": "https://t.co/rXZJ7YFCSk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050507849739178003",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 104
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050294181713899767",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Miaw: https://t.co/rXZJ7YFCSk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 875,
+        "media_key": "3_2050108328836231168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHNyqcNacAANAGQ.jpg",
+        "width": 1099
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050108328836231168"
+          ],
+          "media_source_tweet_id": [
+            "2050294181713899767"
+          ]
+        },
+        "author_id": "1855621322220437504",
+        "conversation_id": "2050507849739178003",
+        "created_at": "2026-05-02T09:29:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T10:29:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050507849739178003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "7176332",
+              "start": 3,
+              "username": "Miaw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rXZJ7YFCSk",
+              "end": 33,
+              "expanded_url": "https://x.com/Miaw/status/2050294181713899767/photo/1",
+              "media_key": "3_2050108328836231168",
+              "start": 10,
+              "url": "https://t.co/rXZJ7YFCSk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050507849739178003",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 104
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050294181713899767",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Miaw: https://t.co/rXZJ7YFCSk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050108328836231168"
+          ]
+        },
+        "author_id": "7176332",
+        "conversation_id": "2050294181713899767",
+        "created_at": "2026-05-01T19:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T20:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050294181713899767"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rXZJ7YFCSk",
+              "end": 23,
+              "expanded_url": "https://x.com/Miaw/status/2050294181713899767/photo/1",
+              "media_key": "3_2050108328836231168",
+              "start": 0,
+              "url": "https://t.co/rXZJ7YFCSk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050294181713899767",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 20574,
+          "like_count": 1614,
+          "quote_count": 6,
+          "reply_count": 0,
+          "retweet_count": 104
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/rXZJ7YFCSk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-10T14:39:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Berkeley, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.27275,
+                  37.87159
+                ],
+                "type": "Point"
+              },
+              "locality": "Berkeley",
+              "region": "California",
+              "sub_region": "Alameda County"
+            }
+          ]
+        },
+        "description": "喜欢小猫\n08 BPD/双相情感障碍 OD/SelfH友好\n成分复杂 web3/美股/加密货币/摄影/音乐/文学/手游/端游… \n自行避雷 不限圈子 互fo必回",
+        "id": "1855621322220437504",
+        "location": "Berkeley, CA",
+        "name": "草履虫不会骑自行车",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025005442838265856/JBY6xIev_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 748,
+          "like_count": 1722,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 205
+        },
+        "username": "clcqzxc",
+        "verified": true
+      },
+      {
+        "created_at": "2007-06-30T20:38:23.000Z",
+        "description": "",
+        "id": "7176332",
+        "location": "🐾",
+        "name": "Miaw",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801765217132826624/DvbJoKM1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113909,
+          "following_count": 0,
+          "like_count": 57,
+          "listed_count": 271,
+          "media_count": 2873,
+          "tweet_count": 2901
+        },
+        "username": "Miaw",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1855621322220437504",
+    "conversation_id": "2059918745192243516",
+    "created_at": "2026-05-28T08:44:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T09:44:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059918745192243516"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059918745192243516",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "对我的人生就是充斥着焦虑恐惧沮丧和不安全感幸福对我来说是令人惶恐的债务一切事物好像大雾和沙砾一样看不透又留不住对我承认我把这些结构性创伤声嘶力竭地投射到了你身上又试图从这些事里获得微妙的掌控感我就是这样一个卑劣的人现在你满意了吧你这个冷漠无情的人我永远都会原谅你。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855621322220437504",
+        "conversation_id": "2059918745192243516",
+        "created_at": "2026-05-28T08:44:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T09:44:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059918745192243516"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059918745192243516",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对我的人生就是充斥着焦虑恐惧沮丧和不安全感幸福对我来说是令人惶恐的债务一切事物好像大雾和沙砾一样看不透又留不住对我承认我把这些结构性创伤声嘶力竭地投射到了你身上又试图从这些事里获得微妙的掌控感我就是这样一个卑劣的人现在你满意了吧你这个冷漠无情的人我永远都会原谅你。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-10T14:39:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Berkeley, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.27275,
+                  37.87159
+                ],
+                "type": "Point"
+              },
+              "locality": "Berkeley",
+              "region": "California",
+              "sub_region": "Alameda County"
+            }
+          ]
+        },
+        "description": "喜欢小猫\n08 顺女 BPD/双相情感障碍 OD/SelfH/跨友好\n成分复杂 web3/美股/加密货币/摄影/音乐/文学/手游/端游… \n自行避雷 不限圈子 互fo必回",
+        "id": "1855621322220437504",
+        "location": "Berkeley, CA",
+        "name": "草履虫不会骑自行车",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025005442838265856/JBY6xIev_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 830,
+          "like_count": 2050,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 251
+        },
+        "username": "clcqzxc",
+        "verified": false
+      }
+    ]
+  }
+}

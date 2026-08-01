@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1855621322220437504",
+    "conversation_id": "2042953829109633064",
+    "created_at": "2026-04-11T13:12:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T14:12:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042953829109633064"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2151686839",
+          "start": 3,
+          "username": "circle"
+        },
+        {
+          "end": 121,
+          "id": "2478756618",
+          "start": 110,
+          "username": "jerallaire"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042953829109633064",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 56
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041954234900607140",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @circle: Circle was founded on a simple idea: money should move more like information on the internet.\n\nAs @jerallaire puts it, the goal…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 133174,
+        "height": 2160,
+        "media_key": "13_2041951981150072834",
+        "preview_image_url": "https://pbs.twimg.com/media/HFZ6285a8AIvWqQ.jpg",
+        "public_metrics": {
+          "view_count": 6478
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041951981150072834/vid/avc1/1920x1080/K2ieOqqUtScWt2Mw.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041951981150072834/vid/avc1/1280x720/48OdUbjd1VYIB1Qi.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041951981150072834/vid/avc1/480x270/R4laM0pdRoXLHSqU.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2041951981150072834/pl/b520l1PJPIoVw_Iw.m3u8?v=e0e"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041951981150072834/vid/avc1/640x360/BYogWCCdLOUT_jMc.mp4"
+          }
+        ],
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855621322220437504",
+        "conversation_id": "2042953829109633064",
+        "created_at": "2026-04-11T13:12:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T14:12:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042953829109633064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2151686839",
+              "start": 3,
+              "username": "circle"
+            },
+            {
+              "end": 121,
+              "id": "2478756618",
+              "start": 110,
+              "username": "jerallaire"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042953829109633064",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 56
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041954234900607140",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @circle: Circle was founded on a simple idea: money should move more like information on the internet.\n\nAs @jerallaire puts it, the goal…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2041951981150072834"
+          ]
+        },
+        "author_id": "2151686839",
+        "conversation_id": "2041954234900607140",
+        "created_at": "2026-04-08T19:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T20:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041954234900607140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 109,
+              "id": "2478756618",
+              "start": 98,
+              "username": "jerallaire"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tv5N4XCrGA",
+              "end": 302,
+              "expanded_url": "https://x.com/circle/status/2041954234900607140/video/1",
+              "media_key": "13_2041951981150072834",
+              "start": 279,
+              "url": "https://t.co/tv5N4XCrGA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041954234900607140",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 109,
+                "id": "2478756618",
+                "start": 98,
+                "username": "jerallaire"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "circle.com/blog/building-…",
+                "end": 484,
+                "expanded_url": "https://www.circle.com/blog/building-the-internet-financial-system",
+                "start": 461,
+                "url": "https://t.co/uN5wNoW8UN"
+              }
+            ]
+          },
+          "text": "Circle was founded on a simple idea: money should move more like information on the internet.\n\nAs @jerallaire puts it, the goal was to build “a protocol for dollars on the internet,” one that allows value to move over open networks at the speed of the internet.\n\nFor banks, that vision is becoming a strategic question:\n→ Stablecoins are becoming infrastructure\n→ AI is accelerating the shift\n→ Payments, FX, and settlement are moving toward always-on systems\n\nhttps://t.co/uN5wNoW8UN"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 32695,
+          "like_count": 275,
+          "quote_count": 8,
+          "reply_count": 26,
+          "retweet_count": 56
+        },
+        "reply_settings": "everyone",
+        "text": "Circle was founded on a simple idea: money should move more like information on the internet.\n\nAs @jerallaire puts it, the goal was to build “a protocol for dollars on the internet,” one that allows value to move over open networks at the speed of the internet.\n\nFor banks, that https://t.co/tv5N4XCrGA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-10T14:39:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Berkeley, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.27275,
+                  37.87159
+                ],
+                "type": "Point"
+              },
+              "locality": "Berkeley",
+              "region": "California",
+              "sub_region": "Alameda County"
+            }
+          ]
+        },
+        "description": "喜欢小猫\n08 BPD/双相情感障碍 OD/SelfH友好\nweb3数字世界连接未来 美股/加密货币交易员\n成分复杂 摄影/音乐/文学/手游/端游… \n自行避雷 不限圈子 互fo必回",
+        "id": "1855621322220437504",
+        "location": "Berkeley, CA",
+        "name": "草履虫不会骑自行车",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025005442838265856/JBY6xIev_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 470,
+          "like_count": 1079,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 52
+        },
+        "username": "clcqzxc",
+        "verified": true
+      },
+      {
+        "created_at": "2013-10-23T21:10:31.000Z",
+        "description": "Building the Internet Financial Platform — powered by USDC, Arc, and Circle Payments Network. Disclosure: https://t.co/7L62d1pLE0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bit.ly/3Jy6LJc",
+                "end": 129,
+                "expanded_url": "https://bit.ly/3Jy6LJc",
+                "start": 106,
+                "url": "https://t.co/7L62d1pLE0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "circle.com",
+                "end": 23,
+                "expanded_url": "http://circle.com",
+                "start": 0,
+                "url": "https://t.co/IFWOYaAAX3"
+              }
+            ]
+          }
+        },
+        "id": "2151686839",
+        "location": "Remote First",
+        "name": "Circle",
+        "pinned_tweet_id": "1983972343174328408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1719446730091962368/Bl01sQsB_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267522,
+          "following_count": 462,
+          "like_count": 4164,
+          "listed_count": 2480,
+          "media_count": 1541,
+          "tweet_count": 6738
+        },
+        "url": "https://t.co/IFWOYaAAX3",
+        "username": "circle",
+        "verified": true
+      },
+      {
+        "created_at": "2014-05-05T19:26:38.000Z",
+        "description": "Co-founder & CEO of Circle @circle Open internet platforms, crypto, bitcoin, human and civil rights. $USDC",
+        "entities": {
+          "description": {
+            "cashtags": [
+              {
+                "end": 106,
+                "start": 101,
+                "tag": "USDC"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 34,
+                "start": 27,
+                "username": "circle"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "circle.com",
+                "end": 23,
+                "expanded_url": "http://www.circle.com",
+                "start": 0,
+                "url": "https://t.co/fWp4KBy9cl"
+              }
+            ]
+          }
+        },
+        "id": "2478756618",
+        "location": "Internet",
+        "name": "Jeremy Allaire - jda.eth / jdallaire.sol",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1501707897641779208/cpB2Dk9__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176301,
+          "following_count": 1570,
+          "like_count": 6052,
+          "listed_count": 2745,
+          "media_count": 462,
+          "tweet_count": 8058
+        },
+        "url": "https://t.co/fWp4KBy9cl",
+        "username": "jerallaire",
+        "verified": true
+      }
+    ]
+  }
+}

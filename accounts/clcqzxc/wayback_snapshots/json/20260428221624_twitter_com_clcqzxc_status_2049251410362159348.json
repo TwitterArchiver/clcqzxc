@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049251400513884160"
+      ]
+    },
+    "author_id": "1855621322220437504",
+    "conversation_id": "2049238984061260030",
+    "created_at": "2026-04-28T22:16:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T23:16:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049251410362159348"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CsAXCIJJQB",
+          "end": 40,
+          "expanded_url": "https://x.com/clcqzxc/status/2049251410362159348/photo/1",
+          "media_key": "3_2049251400513884160",
+          "start": 17,
+          "url": "https://t.co/CsAXCIJJQB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049251410362159348",
+    "in_reply_to_user_id": "1855621322220437504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049238984061260030",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "gpt都知道老一辈打法 好好笑吧 https://t.co/CsAXCIJJQB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 672,
+        "media_key": "3_2049251400513884160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHBnSpcaEAAwGw4.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049251400513884160"
+          ]
+        },
+        "author_id": "1855621322220437504",
+        "conversation_id": "2049238984061260030",
+        "created_at": "2026-04-28T22:16:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T23:16:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049251410362159348"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CsAXCIJJQB",
+              "end": 40,
+              "expanded_url": "https://x.com/clcqzxc/status/2049251410362159348/photo/1",
+              "media_key": "3_2049251400513884160",
+              "start": 17,
+              "url": "https://t.co/CsAXCIJJQB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049251410362159348",
+        "in_reply_to_user_id": "1855621322220437504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049238984061260030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "gpt都知道老一辈打法 好好笑吧 https://t.co/CsAXCIJJQB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855621322220437504",
+        "conversation_id": "2049238984061260030",
+        "created_at": "2026-04-28T21:27:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T22:27:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049238984061260030"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2048970838939160623",
+              "start": 26,
+              "url": "https://t.co/tfWQguPxpI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049238984061260030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048970838939160623",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有人可能趁你发烧卖假药，但发烧不是卖假药的人发明的 https://t.co/tfWQguPxpI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-10T14:39:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Berkeley, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.27275,
+                  37.87159
+                ],
+                "type": "Point"
+              },
+              "locality": "Berkeley",
+              "region": "California",
+              "sub_region": "Alameda County"
+            }
+          ]
+        },
+        "description": "喜欢小猫\n08 BPD/双相情感障碍 OD/SelfH友好\n成分复杂 web3/美股/加密货币/摄影/音乐/文学/手游/端游… \n自行避雷 不限圈子 互fo必回",
+        "id": "1855621322220437504",
+        "location": "Berkeley, CA",
+        "name": "草履虫不会骑自行车",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025005442838265856/JBY6xIev_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 714,
+          "like_count": 1627,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 180
+        },
+        "username": "clcqzxc",
+        "verified": true
+      }
+    ]
+  }
+}

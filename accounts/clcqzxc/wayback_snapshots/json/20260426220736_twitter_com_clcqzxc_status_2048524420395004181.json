@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2048253969903005697"
+      ],
+      "media_source_tweet_id": [
+        "2048253978400653719"
+      ]
+    },
+    "author_id": "1855621322220437504",
+    "conversation_id": "2048524420395004181",
+    "created_at": "2026-04-26T22:07:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T23:07:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048524420395004181"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "176044415",
+          "start": 3,
+          "username": "tabinekocat"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ufoRq4v6HI",
+          "end": 55,
+          "expanded_url": "https://x.com/tabinekocat/status/2048253978400653719/video/1",
+          "media_key": "13_2048253969903005697",
+          "start": 32,
+          "url": "https://t.co/ufoRq4v6HI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048524420395004181",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4808
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048253978400653719",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tabinekocat: あくびすると一瞬ウサ耳になる https://t.co/ufoRq4v6HI"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1696,
+        "height": 720,
+        "media_key": "13_2048253969903005697",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2048253969903005697/img/0LDZC161acAIFh6c.jpg",
+        "public_metrics": {
+          "view_count": 131086
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048253969903005697/vid/avc1/360x270/Fx6XJJtcFHpeMTMt.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048253969903005697/vid/avc1/482x360/XEMcYJ3jGxPPGxnT.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048253969903005697/vid/avc1/964x720/SxRgIfFvvAYA4m35.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2048253969903005697/pl/1cepG74P7bdjqPt4.m3u8"
+          }
+        ],
+        "width": 964
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2048253969903005697"
+          ],
+          "media_source_tweet_id": [
+            "2048253978400653719"
+          ]
+        },
+        "author_id": "1855621322220437504",
+        "conversation_id": "2048524420395004181",
+        "created_at": "2026-04-26T22:07:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T23:07:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048524420395004181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "176044415",
+              "start": 3,
+              "username": "tabinekocat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ufoRq4v6HI",
+              "end": 55,
+              "expanded_url": "https://x.com/tabinekocat/status/2048253978400653719/video/1",
+              "media_key": "13_2048253969903005697",
+              "start": 32,
+              "url": "https://t.co/ufoRq4v6HI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048524420395004181",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4808
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048253978400653719",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tabinekocat: あくびすると一瞬ウサ耳になる https://t.co/ufoRq4v6HI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2048253969903005697"
+          ]
+        },
+        "author_id": "176044415",
+        "conversation_id": "2048253978400653719",
+        "created_at": "2026-04-26T04:12:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T05:12:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048253978400653719"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ufoRq4v6HI",
+              "end": 38,
+              "expanded_url": "https://x.com/tabinekocat/status/2048253978400653719/video/1",
+              "media_key": "13_2048253969903005697",
+              "start": 15,
+              "url": "https://t.co/ufoRq4v6HI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048253978400653719",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1616,
+          "impression_count": 390098,
+          "like_count": 41534,
+          "quote_count": 96,
+          "reply_count": 15,
+          "retweet_count": 4808
+        },
+        "reply_settings": "everyone",
+        "text": "あくびすると一瞬ウサ耳になる https://t.co/ufoRq4v6HI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-10T14:39:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Berkeley, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.27275,
+                  37.87159
+                ],
+                "type": "Point"
+              },
+              "locality": "Berkeley",
+              "region": "California",
+              "sub_region": "Alameda County"
+            }
+          ]
+        },
+        "description": "喜欢小猫\n08 BPD/双相情感障碍 OD/SelfH友好\n成分复杂 web3/美股/加密货币/摄影/音乐/文学/手游/端游… \n自行避雷 不限圈子 互fo必回",
+        "id": "1855621322220437504",
+        "location": "Berkeley, CA",
+        "name": "草履虫不会骑自行车",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025005442838265856/JBY6xIev_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 691,
+          "like_count": 1582,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 164
+        },
+        "username": "clcqzxc",
+        "verified": true
+      },
+      {
+        "created_at": "2010-08-08T11:29:25.000Z",
+        "description": "黒ねこ黒豆（'18生まれ）とキジトラもなか（'22生まれ）との猫日記。三毛女子みかん（～'23）とは虹の橋で待ち合わせ。",
+        "id": "176044415",
+        "location": "東京都",
+        "name": "旅猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1530764410637406208/4kHY80r__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1979,
+          "following_count": 511,
+          "like_count": 84011,
+          "listed_count": 99,
+          "media_count": 6369,
+          "tweet_count": 8741
+        },
+        "username": "tabinekocat",
+        "verified": false
+      }
+    ]
+  }
+}

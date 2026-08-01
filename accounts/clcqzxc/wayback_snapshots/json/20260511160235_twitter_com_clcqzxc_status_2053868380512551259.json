@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1855621322220437504",
+    "conversation_id": "2053868380512551259",
+    "created_at": "2026-05-11T16:02:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T17:02:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053868380512551259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053868380512551259",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 372
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044712402349117551",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: “中国留学生在德国多次迷奸女友，加入色情犯罪群学技巧、分享迷奸视频，下药超标5-10倍”\n4月14日，媒体报道：一名在德国留学的28岁中国学生多次对其女友下药后，在对方陷入深度昏迷时进行性侵，并且全程拍下施暴过程。… https://t.…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_2044702045756882944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGA9rWTagAAqHC2.jpg",
+        "width": 996
+      },
+      {
+        "height": 2160,
+        "media_key": "3_2044702058679328768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGA9sGcXYAAWpCk.jpg",
+        "width": 996
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855621322220437504",
+        "conversation_id": "2053868380512551259",
+        "created_at": "2026-05-11T16:02:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T17:02:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053868380512551259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053868380512551259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 372
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044712402349117551",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: “中国留学生在德国多次迷奸女友，加入色情犯罪群学技巧、分享迷奸视频，下药超标5-10倍”\n4月14日，媒体报道：一名在德国留学的28岁中国学生多次对其女友下药后，在对方陷入深度昏迷时进行性侵，并且全程拍下施暴过程。… https://t.…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044702045756882944",
+            "3_2044702058679328768"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2044712402349117551",
+        "created_at": "2026-04-16T09:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T10:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044712402349117551"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C1Mkd3c9Ff",
+              "end": 131,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2044712402349117551/photo/1",
+              "media_key": "3_2044702045756882944",
+              "start": 108,
+              "url": "https://t.co/C1Mkd3c9Ff"
+            },
+            {
+              "display_url": "pic.x.com/C1Mkd3c9Ff",
+              "end": 131,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2044712402349117551/photo/1",
+              "media_key": "3_2044702058679328768",
+              "start": 108,
+              "url": "https://t.co/C1Mkd3c9Ff"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044712402349117551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "“中国留学生在德国多次迷奸女友，加入色情犯罪群学技巧、分享迷奸视频，下药超标5-10倍”\n4月14日，媒体报道：一名在德国留学的28岁中国学生多次对其女友下药后，在对方陷入深度昏迷时进行性侵，并且全程拍下施暴过程。\n\n4月14日，慕尼黑法院判决其多项加重强奸及企图谋杀罪名成立，判处有期徒刑11年3个月。主审法官在法庭上怒斥其“展现出对人性与女性极端骇人的蔑视”。\n\n德国法院未披露这名中国留学生的全名，法庭文件显示为钟义·J（Zhongyi J.，音译），案发时约27岁，宣判时28岁。\n\n受害人为一名中国女留学生，与被告是邻居，后来成为其女友。案发期间，她多次遭到迷奸，但因药物导致失忆，完全不知情，直到警方联系并出示证据才知晓。\n\n2024年2月至12月，钟义在其学生公寓中多次作案，手法是使用剂量严重超标5-10倍的医院级强效镇静剂，通过饮料、浸药棉布捂脸、注射等方式迷晕受害人。\n\n等到受害人进入深度无意识状态，便多次对其进行性侵。期间受害人曾出现呼吸暂停、舌头后坠堵塞气道等生命危险，但他继续施暴并录像，事后还拍照“留念”，然后将受害人单独留在公寓，风险极高。他在视频中曾多次追加药物，确保受害人不会醒来。\n\n钟义加入了一个网络色情犯罪群，与其他人分享作案技巧、剂量、视频和照片，互相炫耀。受害者多为中国女性，多数事前不知情，直到警方联系才知道。\n\n2024年11月14日，群管理员大鹏·Z（Dapeng Z.，音译）被黑森州刑警逮捕，之后牵出钟义。\n\n2024年12月，警方对钟义的公寓进行突袭时，受害人正处于被迷奸后的昏迷状态。警方发现被告自拍了大量视频和850多张色情照片，存储在其手机和iPad之中，与药物、开口器等“战利品”一起收藏。\n\n受害人被迷奸后曾经出现头晕、恶心、记忆空白等问题，曾误以为是睡眠问题，甚至出现自杀念头，在法庭上观看自己被迷奸的视频时深受打击。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 650,
+          "impression_count": 2164178,
+          "like_count": 2542,
+          "quote_count": 56,
+          "reply_count": 265,
+          "retweet_count": 372
+        },
+        "reply_settings": "everyone",
+        "text": "“中国留学生在德国多次迷奸女友，加入色情犯罪群学技巧、分享迷奸视频，下药超标5-10倍”\n4月14日，媒体报道：一名在德国留学的28岁中国学生多次对其女友下药后，在对方陷入深度昏迷时进行性侵，并且全程拍下施暴过程。 https://t.co/C1Mkd3c9Ff"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-10T14:39:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Berkeley, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.27275,
+                  37.87159
+                ],
+                "type": "Point"
+              },
+              "locality": "Berkeley",
+              "region": "California",
+              "sub_region": "Alameda County"
+            }
+          ]
+        },
+        "description": "喜欢小猫\n08 BPD/双相情感障碍 OD/SelfH友好\n成分复杂 web3/美股/加密货币/摄影/音乐/文学/手游/端游… \n自行避雷 不限圈子 互fo必回",
+        "id": "1855621322220437504",
+        "location": "Berkeley, CA",
+        "name": "草履虫不会骑自行车",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025005442838265856/JBY6xIev_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 750,
+          "like_count": 1764,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 216
+        },
+        "username": "clcqzxc",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2019752134674141562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2219145,
+          "following_count": 1047,
+          "like_count": 9481,
+          "listed_count": 8720,
+          "media_count": 46550,
+          "tweet_count": 53654
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

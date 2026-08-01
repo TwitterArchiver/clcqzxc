@@ -1,0 +1,780 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1855621322220437504",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "45th US President, Donald Trump",
+          "id": "799022225751871488",
+          "name": "Donald Trump"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "45th US President, Donald Trump",
+          "id": "799022225751871488",
+          "name": "Donald Trump"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "45th US President, Donald Trump",
+          "id": "799022225751871488",
+          "name": "Donald Trump"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1486271512655003652",
+          "name": "Web3"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "Brought to you by @Polymarket. Get live, unbiased 2024 election forecasts: https://polymarket.com/elections\n",
+          "id": "1836137739353292800",
+          "name": "2024 US Election"
+        }
+      }
+    ],
+    "conversation_id": "2043193833715114482",
+    "created_at": "2026-04-12T05:05:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T06:05:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043193833715114482"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "941820928274681856",
+          "start": 3,
+          "username": "gothburz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043193833715114482",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2694
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043043381559837153",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gothburz: I am a Web3 Ambassador at World Liberty Financial.\n\nThere are 12 of us on the team page. 4 are named Trump. 3 are named Witko…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 903,
+        "media_key": "3_2043043250961817600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFpZAyJWoAAVzla.jpg",
+        "width": 1518
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855621322220437504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1486271512655003652",
+              "name": "Web3"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Brought to you by @Polymarket. Get live, unbiased 2024 election forecasts: https://polymarket.com/elections\n",
+              "id": "1836137739353292800",
+              "name": "2024 US Election"
+            }
+          }
+        ],
+        "conversation_id": "2043193833715114482",
+        "created_at": "2026-04-12T05:05:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T06:05:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043193833715114482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "941820928274681856",
+              "start": 3,
+              "username": "gothburz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043193833715114482",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2694
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043043381559837153",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gothburz: I am a Web3 Ambassador at World Liberty Financial.\n\nThere are 12 of us on the team page. 4 are named Trump. 3 are named Witko…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043043250961817600"
+          ]
+        },
+        "author_id": "941820928274681856",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Personal finance",
+              "id": "847888632711061504",
+              "name": "Personal finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Retirement planning",
+              "id": "847894794080722944",
+              "name": "Retirement planning"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Saving and Finance",
+              "id": "1037075567227494400",
+              "name": "Saving and finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1486271512655003652",
+              "name": "Web3"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491481998862348291",
+              "name": "Digital asset industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Brought to you by @Polymarket. Get live, unbiased 2024 election forecasts: https://polymarket.com/elections\n",
+              "id": "1836137739353292800",
+              "name": "2024 US Election"
+            }
+          }
+        ],
+        "conversation_id": "2043043381559837153",
+        "created_at": "2026-04-11T19:07:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T20:07:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043043381559837153"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qs90ajgWLS",
+              "end": 298,
+              "expanded_url": "https://x.com/gothburz/status/2043043381559837153/photo/1",
+              "media_key": "3_2043043250961817600",
+              "start": 275,
+              "url": "https://t.co/qs90ajgWLS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043043381559837153",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "I am a Web3 Ambassador at World Liberty Financial.\n\nThere are 12 of us on the team page. 4 are named Trump. 3 are named Witkoff. The page calls us \"the passionate minds shaping the future of finance.\"\n\n600,000 wallets bought our memecoin. They lost $3.87 billion. The family collected $350 million in trading fees. It launched 3 days before the inauguration. 80% of the supply went to CIC Digital LLC and Fight Fight Fight LLC. I did not choose the names. I designed the allocation, the vesting, the timing, and the distance between the product and the President.\n\nThe distance is my best work.\n\nI am the reason these events are unrelated.\n\nWorld Liberty Financial sends 75 cents of every dollar to DT Marks DEFI LLC. That is the family entity. Zero capital contributed. Zero liability assumed. I wrote this into the Gold Paper. Page 14. The lawyers bound it in white leather. The binding cost more than the due diligence.\n\nJustin Sun invested $75 million. He was facing SEC fraud charges. The SEC dropped the case. He is now our advisor. These events are unrelated.\n\nChangpeng Zhao pleaded guilty to federal money laundering violations. He received a presidential pardon. The SEC dropped its lawsuit against his exchange the same week we listed our stablecoin. Then the exchange settled a $2 billion deal entirely in that stablecoin. These events are unrelated.\n\nArthur Hayes, Benjamin Delo, and Samuel Reed of BitMEX pleaded guilty to Bank Secrecy Act violations. All 3 received presidential pardons. Then the company itself was pardoned. $100 million in fines. Gone. An American first. These events are unrelated.\n\nSheikh Tahnoun of Abu Dhabi paid $500 million for a 49% stake that was never publicly disclosed. Then the administration approved semiconductor exports to his companies over national security objections. These events are unrelated.\n\nEverything is unrelated. I track the unrelatedness on a dashboard I built. The dashboard has 7 columns now. I am proud of the dashboard.\n\nOn May 22nd, 220 people paid a combined $148 million to eat dinner with the America First president. Over half were foreign nationals. Justin Sun paid $18.5 million for the first seat. He visited the Executive Office Building the day before. I designed the seating chart. I put it on the Investor Confidence page. That page is doing well.\n\nThe team page lists 3 Witkoffs. All 3 are Co-Founders.\n\nSteven Witkoff is the President's Middle East envoy. He testified as a character witness at the President's fraud trial.\n\nHis son Zach runs the crypto operation. His son Alex is also a Co-Founder. I have not been told what Alex co-founded.\n\nThe father runs the diplomacy. The sons run the platform. The family runs both. That is organizational efficiency.\n\nBarron is 19. His title is Web3 Ambassador. The same as mine. Donald Jr. called the conflicts of interest \"complete nonsense.\" Eric launched a Bitcoin mining company called American Bitcoin. America First. The mining partner is Hut 8. Hut 8 was founded in Canada. America First means the name.\n\nOn March 6th, the President signed Executive Order 14233 creating a Strategic Bitcoin Reserve. The order directs the government to hold Bitcoin. The President's family holds billions in Bitcoin. The executive order appreciates the President's assets by presidential decree. I did not write the executive order. I made sure it looked unrelated to the portfolio.\n\nTrump Media put $2 billion of Bitcoin on its balance sheet. The ticker symbol is DJT. His initials. The press secretary said it is absurd to insinuate the President profits off the presidency. Forbes calculated his crypto holdings exceed the combined value of Mar-a-Lago and Trump Tower. I would call that absurd too. That is my job.\n\n600,000 wallets bought in. 1 of them asked why she could not withdraw her funds. I told her the protocol was experiencing dynamic market conditions. She asked what that meant. I sent her the Gold Paper. She said she had read the Gold Paper. I muted her channel. Dynamic means the conditions change. The condition that changed was her access.\n\nA congressman called us the world's most corrupt crypto startup operation. We put it on a coffee mug. Ironic merchandise. $45. The revenue split on the mug is also 75/25.\n\nMy own tokens vest on a different schedule. I wrote that schedule. That is not in the Gold Paper.\n\nThe memecoin funds the family. The family funds the platform. The platform funds the stablecoin. The stablecoin funds the deals. The deals require the pardons. The pardons free the partners. The partners fund the platform. The President signs the executive orders. The executive orders inflate the assets. The assets fund the family.\n\nI am the reason these events are unrelated."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4319,
+          "impression_count": 992949,
+          "like_count": 7872,
+          "quote_count": 689,
+          "reply_count": 675,
+          "retweet_count": 2694
+        },
+        "reply_settings": "everyone",
+        "text": "I am a Web3 Ambassador at World Liberty Financial.\n\nThere are 12 of us on the team page. 4 are named Trump. 3 are named Witkoff. The page calls us \"the passionate minds shaping the future of finance.\"\n\n600,000 wallets bought our memecoin. They lost $3.87 billion. The family https://t.co/qs90ajgWLS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-10T14:39:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Berkeley, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.27275,
+                  37.87159
+                ],
+                "type": "Point"
+              },
+              "locality": "Berkeley",
+              "region": "California",
+              "sub_region": "Alameda County"
+            }
+          ]
+        },
+        "description": "喜欢小猫\n08 BPD/双相情感障碍 OD/SelfH友好\nweb3数字世界连接未来 美股/加密货币交易员\n成分复杂 摄影/音乐/文学/手游/端游… \n自行避雷 不限圈子 互fo必回",
+        "id": "1855621322220437504",
+        "location": "Berkeley, CA",
+        "name": "草履虫不会骑自行车",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025005442838265856/JBY6xIev_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 505,
+          "like_count": 1119,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 57
+        },
+        "username": "clcqzxc",
+        "verified": true
+      },
+      {
+        "created_at": "2017-12-16T00:03:02.000Z",
+        "description": "The Cyber Populist | Hacker at @theZDI | Your favorite vendor's worst nightmare | Holding the pen | The quiet part, written, then read aloud.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 31,
+                "username": "theZDI"
+              }
+            ]
+          }
+        },
+        "id": "941820928274681856",
+        "location": "Austin, Texas",
+        "name": "Peter Girnus 🦅",
+        "pinned_tweet_id": "1999124665801880032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992748146359750657/RQIsGXqM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141994,
+          "following_count": 515,
+          "like_count": 20394,
+          "listed_count": 561,
+          "media_count": 1626,
+          "tweet_count": 20680
+        },
+        "username": "gothburz",
+        "verified": true
+      }
+    ]
+  }
+}

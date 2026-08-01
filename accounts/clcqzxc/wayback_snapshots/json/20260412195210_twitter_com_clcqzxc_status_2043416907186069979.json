@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1855621322220437504",
+    "conversation_id": "2041205065948823682",
+    "created_at": "2026-04-12T19:52:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T20:52:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043416907186069979"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1573206509625876481",
+          "start": 0,
+          "username": "syhily"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043416907186069979",
+    "in_reply_to_user_id": "1573206509625876481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041205065948823682",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@syhily 呃四岁的话让她慢慢探索慢慢对世界形成自我感知才是更重要的吧？她需要自己找到学习和生活的动力啊。给她提供优渥的生活条件是家长的义务，这是她要求你们做的吗？你也知道她才四岁，她理解不了你这句话多深的用意，这会让她觉得她欠你的好吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855621322220437504",
+        "conversation_id": "2041205065948823682",
+        "created_at": "2026-04-12T19:52:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T20:52:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043416907186069979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1573206509625876481",
+              "start": 0,
+              "username": "syhily"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043416907186069979",
+        "in_reply_to_user_id": "1573206509625876481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041205065948823682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@syhily 呃四岁的话让她慢慢探索慢慢对世界形成自我感知才是更重要的吧？她需要自己找到学习和生活的动力啊。给她提供优渥的生活条件是家长的义务，这是她要求你们做的吗？你也知道她才四岁，她理解不了你这句话多深的用意，这会让她觉得她欠你的好吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1573206509625876481",
+        "conversation_id": "2041205065948823682",
+        "created_at": "2026-04-06T17:23:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T18:23:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041205065948823682"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041205065948823682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 146030,
+          "like_count": 74,
+          "quote_count": 57,
+          "reply_count": 97,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "清明几天在家开启鸡娃模式，从早到晚，教的内容安排得满当当的。女儿各种不配合，包括沉默对抗磨时间。期间，女儿问我，爸爸，我为什么要学习。\n\n我想了想，突然失语。因为我很难用她理解的方式讲清楚这个问题。最后我说，这个就是你的义务，我们给你提供了优渥的生活条件，作为交换，要求你好好学习。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-10T14:39:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Berkeley, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.27275,
+                  37.87159
+                ],
+                "type": "Point"
+              },
+              "locality": "Berkeley",
+              "region": "California",
+              "sub_region": "Alameda County"
+            }
+          ]
+        },
+        "description": "喜欢小猫\n08 BPD/双相情感障碍 OD/SelfH友好\nweb3数字世界连接未来 美股/加密货币交易员\n成分复杂 摄影/音乐/文学/手游/端游… \n自行避雷 不限圈子 互fo必回",
+        "id": "1855621322220437504",
+        "location": "Berkeley, CA",
+        "name": "草履虫不会骑自行车",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025005442838265856/JBY6xIev_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 523,
+          "like_count": 1148,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 60
+        },
+        "username": "clcqzxc",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-23T07:04:02.000Z",
+        "description": "#INTP-T @ApacheFlink の貢献者。Java、Go、Scala、Kotlin、ECMAScript、Python、Lua その他 6 つのプログラム言語でコーディング。読書が唯一の娯楽。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "INTP"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "ApacheFlink"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yufan.me",
+                "end": 23,
+                "expanded_url": "https://yufan.me",
+                "start": 0,
+                "url": "https://t.co/GxDZqZtWFB"
+              }
+            ]
+          }
+        },
+        "id": "1573206509625876481",
+        "location": "テイワット",
+        "name": "Yufan Sheng",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011084413967482887/Kx4wh-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28775,
+          "following_count": 896,
+          "like_count": 5713,
+          "listed_count": 176,
+          "media_count": 2368,
+          "tweet_count": 10244
+        },
+        "url": "https://t.co/GxDZqZtWFB",
+        "username": "syhily",
+        "verified": false
+      }
+    ]
+  }
+}

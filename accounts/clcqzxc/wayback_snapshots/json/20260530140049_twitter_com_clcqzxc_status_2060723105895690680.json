@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1855621322220437504",
+    "conversation_id": "2060723105895690680",
+    "created_at": "2026-05-30T14:00:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T15:00:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060723105895690680"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1667377941234307074",
+          "start": 3,
+          "username": "dev6iil"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060723105895690680",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 267
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060480966670340214",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dev6iil: me levanto y me deprimo\ncomo y me deprimo \nrespiro y me deprimo \nexisto y me deprimo \nno hago nada y me deprimo \nme voy a dorm…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855621322220437504",
+        "conversation_id": "2060723105895690680",
+        "created_at": "2026-05-30T14:00:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T15:00:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060723105895690680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1667377941234307074",
+              "start": 3,
+              "username": "dev6iil"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060723105895690680",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 267
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060480966670340214",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dev6iil: me levanto y me deprimo\ncomo y me deprimo \nrespiro y me deprimo \nexisto y me deprimo \nno hago nada y me deprimo \nme voy a dorm…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1667377941234307074",
+        "conversation_id": "2060480966670340214",
+        "created_at": "2026-05-29T21:58:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T22:58:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060480966670340214"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060480966670340214",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 6929,
+          "like_count": 735,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 267
+        },
+        "reply_settings": "everyone",
+        "text": "me levanto y me deprimo\ncomo y me deprimo \nrespiro y me deprimo \nexisto y me deprimo \nno hago nada y me deprimo \nme voy a dormir y me deprimo\nel ciclo se repite"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-10T14:39:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Berkeley, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.27275,
+                  37.87159
+                ],
+                "type": "Point"
+              },
+              "locality": "Berkeley",
+              "region": "California",
+              "sub_region": "Alameda County"
+            }
+          ]
+        },
+        "description": "喜欢小猫\n08 顺女 BPD/双相情感障碍 OD/SelfH/跨友好\n成分复杂 web3/美股/加密货币/摄影/音乐/文学/手游/端游… \n自行避雷 不限圈子 互fo必回",
+        "id": "1855621322220437504",
+        "location": "Berkeley, CA",
+        "name": "草履虫不会骑自行车",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025005442838265856/JBY6xIev_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 843,
+          "like_count": 2101,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 259
+        },
+        "username": "clcqzxc",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-10T03:47:51.000Z",
+        "description": "me llevé todos los trastornos y no dejé ninguno para los demás #subtwt || m/w: @https_sarcasm 🤍",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 70,
+                "start": 63,
+                "tag": "subtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 93,
+                "start": 79,
+                "username": "https_sarcasm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dev6iil",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dev6iil",
+                "start": 0,
+                "url": "https://t.co/xhEYkTnm9N"
+              }
+            ]
+          }
+        },
+        "id": "1667377941234307074",
+        "location": "he/him",
+        "name": "𝖱𝖺𝗒 ᵈᵉᵛᵒⁿ'ˢ ᵇᶠ",
+        "pinned_tweet_id": "2049411970483327298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048610469158797312/2loP1N_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3097,
+          "following_count": 1919,
+          "like_count": 37558,
+          "listed_count": 19,
+          "media_count": 801,
+          "tweet_count": 10528
+        },
+        "url": "https://t.co/xhEYkTnm9N",
+        "username": "dev6iil",
+        "verified": false
+      }
+    ]
+  }
+}

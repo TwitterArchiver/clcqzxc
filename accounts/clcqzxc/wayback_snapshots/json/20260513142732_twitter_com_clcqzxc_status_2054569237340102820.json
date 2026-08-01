@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1855621322220437504",
+    "conversation_id": "2054569237340102820",
+    "created_at": "2026-05-13T14:27:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T15:27:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054569237340102820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2031591173975060489",
+          "start": 3,
+          "username": "oiloou07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054569237340102820",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 110
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054455155924557948",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oiloou07: 特朗普太精了 ，今天到中国，明天可以享受疯狂星期四"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855621322220437504",
+        "conversation_id": "2054569237340102820",
+        "created_at": "2026-05-13T14:27:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T15:27:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054569237340102820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2031591173975060489",
+              "start": 3,
+              "username": "oiloou07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054569237340102820",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 110
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054455155924557948",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oiloou07: 特朗普太精了 ，今天到中国，明天可以享受疯狂星期四"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031591173975060489",
+        "conversation_id": "2054455155924557948",
+        "created_at": "2026-05-13T06:54:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T07:54:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054455155924557948"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054455155924557948",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 161107,
+          "like_count": 2388,
+          "quote_count": 14,
+          "reply_count": 283,
+          "retweet_count": 110
+        },
+        "reply_settings": "everyone",
+        "text": "特朗普太精了 ，今天到中国，明天可以享受疯狂星期四"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-10T14:39:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Berkeley, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.27275,
+                  37.87159
+                ],
+                "type": "Point"
+              },
+              "locality": "Berkeley",
+              "region": "California",
+              "sub_region": "Alameda County"
+            }
+          ]
+        },
+        "description": "喜欢小猫\n08 BPD/双相情感障碍 OD/SelfH友好\n成分复杂 web3/美股/加密货币/摄影/音乐/文学/手游/端游… \n自行避雷 不限圈子 互fo必回",
+        "id": "1855621322220437504",
+        "location": "Berkeley, CA",
+        "name": "草履虫不会骑自行车",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025005442838265856/JBY6xIev_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 751,
+          "like_count": 1769,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 216
+        },
+        "username": "clcqzxc",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-11T04:41:09.000Z",
+        "description": "˃̣̣ᯅก",
+        "id": "2031591173975060489",
+        "location": "🚪99加✈️",
+        "name": "嗲犬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047206249889198080/D3CrKS28_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5753,
+          "following_count": 0,
+          "like_count": 627,
+          "listed_count": 9,
+          "media_count": 25,
+          "tweet_count": 132
+        },
+        "username": "oiloou07",
+        "verified": false
+      }
+    ]
+  }
+}

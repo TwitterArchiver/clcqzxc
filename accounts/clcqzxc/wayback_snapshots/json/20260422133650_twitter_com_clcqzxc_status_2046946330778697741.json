@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046946322037796864"
+      ]
+    },
+    "author_id": "1855621322220437504",
+    "conversation_id": "2046946330778697741",
+    "created_at": "2026-04-22T13:36:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T14:36:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046946330778697741"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fgPLCud4Zt",
+          "end": 23,
+          "expanded_url": "https://x.com/clcqzxc/status/2046946330778697741/photo/1",
+          "media_key": "3_2046946322037796864",
+          "start": 0,
+          "url": "https://t.co/fgPLCud4Zt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046946330778697741",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/fgPLCud4Zt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1762,
+        "media_key": "3_2046946322037796864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGg21a9a8AAQw7g.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046946322037796864"
+          ]
+        },
+        "author_id": "1855621322220437504",
+        "conversation_id": "2046946330778697741",
+        "created_at": "2026-04-22T13:36:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T14:36:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046946330778697741"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fgPLCud4Zt",
+              "end": 23,
+              "expanded_url": "https://x.com/clcqzxc/status/2046946330778697741/photo/1",
+              "media_key": "3_2046946322037796864",
+              "start": 0,
+              "url": "https://t.co/fgPLCud4Zt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046946330778697741",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/fgPLCud4Zt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-10T14:39:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Berkeley, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.27275,
+                  37.87159
+                ],
+                "type": "Point"
+              },
+              "locality": "Berkeley",
+              "region": "California",
+              "sub_region": "Alameda County"
+            }
+          ]
+        },
+        "description": "喜欢小猫\n08 BPD/双相情感障碍 OD/SelfH友好\n成分复杂 web3/美股/加密货币/摄影/音乐/文学/手游/端游… \n自行避雷 不限圈子 互fo必回",
+        "id": "1855621322220437504",
+        "location": "Berkeley, CA",
+        "name": "草履虫不会骑自行车",
+        "pinned_tweet_id": "2044324882364948718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025005442838265856/JBY6xIev_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 673,
+          "like_count": 1472,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 156
+        },
+        "username": "clcqzxc",
+        "verified": true
+      }
+    ]
+  }
+}

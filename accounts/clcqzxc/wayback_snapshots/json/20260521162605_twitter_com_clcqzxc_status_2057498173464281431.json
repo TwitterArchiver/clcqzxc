@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057348971866247168",
+        "3_2057348977230782464",
+        "3_2057348971857936384"
+      ],
+      "media_source_tweet_id": [
+        "2057349011288539429",
+        "2057349011288539429",
+        "2057349011288539429"
+      ]
+    },
+    "author_id": "1855621322220437504",
+    "conversation_id": "2057498173464281431",
+    "created_at": "2026-05-21T16:26:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T17:26:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057498173464281431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2033160782687731712",
+          "start": 3,
+          "username": "Shioochicqwq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OjlizaESuN",
+          "end": 49,
+          "expanded_url": "https://x.com/Shioochicqwq/status/2057349011288539429/photo/1",
+          "media_key": "3_2057348971866247168",
+          "start": 26,
+          "url": "https://t.co/OjlizaESuN"
+        },
+        {
+          "display_url": "pic.x.com/OjlizaESuN",
+          "end": 49,
+          "expanded_url": "https://x.com/Shioochicqwq/status/2057349011288539429/photo/1",
+          "media_key": "3_2057348977230782464",
+          "start": 26,
+          "url": "https://t.co/OjlizaESuN"
+        },
+        {
+          "display_url": "pic.x.com/OjlizaESuN",
+          "end": 49,
+          "expanded_url": "https://x.com/Shioochicqwq/status/2057349011288539429/photo/1",
+          "media_key": "3_2057348971857936384",
+          "start": 26,
+          "url": "https://t.co/OjlizaESuN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057498173464281431",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057349011288539429",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Shioochicqwq: 真的假的🤯🤯🤯 https://t.co/OjlizaESuN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 868,
+        "media_key": "3_2057348971866247168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI0r_VcaUAAy3qa.jpg",
+        "width": 1219
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2057348977230782464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI0r_pbaoAAvNxT.jpg",
+        "width": 1033
+      },
+      {
+        "height": 2192,
+        "media_key": "3_2057348971857936384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI0r_VabgAA4iW3.jpg",
+        "width": 1219
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057348971866247168",
+            "3_2057348977230782464",
+            "3_2057348971857936384"
+          ],
+          "media_source_tweet_id": [
+            "2057349011288539429",
+            "2057349011288539429",
+            "2057349011288539429"
+          ]
+        },
+        "author_id": "1855621322220437504",
+        "conversation_id": "2057498173464281431",
+        "created_at": "2026-05-21T16:26:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T17:26:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057498173464281431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2033160782687731712",
+              "start": 3,
+              "username": "Shioochicqwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OjlizaESuN",
+              "end": 49,
+              "expanded_url": "https://x.com/Shioochicqwq/status/2057349011288539429/photo/1",
+              "media_key": "3_2057348971866247168",
+              "start": 26,
+              "url": "https://t.co/OjlizaESuN"
+            },
+            {
+              "display_url": "pic.x.com/OjlizaESuN",
+              "end": 49,
+              "expanded_url": "https://x.com/Shioochicqwq/status/2057349011288539429/photo/1",
+              "media_key": "3_2057348977230782464",
+              "start": 26,
+              "url": "https://t.co/OjlizaESuN"
+            },
+            {
+              "display_url": "pic.x.com/OjlizaESuN",
+              "end": 49,
+              "expanded_url": "https://x.com/Shioochicqwq/status/2057349011288539429/photo/1",
+              "media_key": "3_2057348971857936384",
+              "start": 26,
+              "url": "https://t.co/OjlizaESuN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057498173464281431",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057349011288539429",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Shioochicqwq: 真的假的🤯🤯🤯 https://t.co/OjlizaESuN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057348971866247168",
+            "3_2057348977230782464",
+            "3_2057348971857936384"
+          ]
+        },
+        "author_id": "2033160782687731712",
+        "conversation_id": "2057349011288539429",
+        "created_at": "2026-05-21T06:33:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T07:33:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057349011288539429"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OjlizaESuN",
+              "end": 31,
+              "expanded_url": "https://x.com/Shioochicqwq/status/2057349011288539429/photo/1",
+              "media_key": "3_2057348971866247168",
+              "start": 8,
+              "url": "https://t.co/OjlizaESuN"
+            },
+            {
+              "display_url": "pic.x.com/OjlizaESuN",
+              "end": 31,
+              "expanded_url": "https://x.com/Shioochicqwq/status/2057349011288539429/photo/1",
+              "media_key": "3_2057348977230782464",
+              "start": 8,
+              "url": "https://t.co/OjlizaESuN"
+            },
+            {
+              "display_url": "pic.x.com/OjlizaESuN",
+              "end": 31,
+              "expanded_url": "https://x.com/Shioochicqwq/status/2057349011288539429/photo/1",
+              "media_key": "3_2057348971857936384",
+              "start": 8,
+              "url": "https://t.co/OjlizaESuN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057349011288539429",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 296,
+          "impression_count": 312126,
+          "like_count": 920,
+          "quote_count": 6,
+          "reply_count": 167,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "真的假的🤯🤯🤯 https://t.co/OjlizaESuN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-10T14:39:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Berkeley, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.27275,
+                  37.87159
+                ],
+                "type": "Point"
+              },
+              "locality": "Berkeley",
+              "region": "California",
+              "sub_region": "Alameda County"
+            }
+          ]
+        },
+        "description": "喜欢小猫\n08 顺女 BPD/双相情感障碍 OD/SelfH/跨友好\n成分复杂 web3/美股/加密货币/摄影/音乐/文学/手游/端游… \n自行避雷 不限圈子 互fo必回",
+        "id": "1855621322220437504",
+        "location": "Berkeley, CA",
+        "name": "草履虫不会骑自行车",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025005442838265856/JBY6xIev_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 780,
+          "like_count": 1889,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 232
+        },
+        "username": "clcqzxc",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-15T12:38:12.000Z",
+        "description": "小证含糖半家长党｜生产日期2009.4.8｜hrt2025.7.20🍥｜小证2026.1.17｜choose life?！｜主页请看亮点｜石图提供者@hiotemaron41774｜友跨顺男@whatasiger｜友情链接:https//:https://t.co/lgff7NheVI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 74,
+                "username": "hiotemaron41774"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "whatasiger"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "whatasiger.xyz",
+                "end": 143,
+                "expanded_url": "http://whatasiger.xyz",
+                "start": 120,
+                "url": "https://t.co/lgff7NheVI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shioochic",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shioochic",
+                "start": 0,
+                "url": "https://t.co/MWqehqtsm2"
+              }
+            ]
+          }
+        },
+        "id": "2033160782687731712",
+        "location": "广州",
+        "name": "汐落_shio",
+        "pinned_tweet_id": "2047250658261442860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033161267213697024/nZfuP7C9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2922,
+          "following_count": 1706,
+          "like_count": 5842,
+          "listed_count": 4,
+          "media_count": 560,
+          "tweet_count": 4180
+        },
+        "url": "https://t.co/MWqehqtsm2",
+        "username": "Shioochicqwq",
+        "verified": true
+      }
+    ]
+  }
+}

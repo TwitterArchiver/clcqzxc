@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1855621322220437504",
+    "conversation_id": "2043958154770428193",
+    "created_at": "2026-04-14T07:42:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T08:42:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043958154770428193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "18481050",
+          "start": 3,
+          "username": "SECGov"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043958154770428193",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 383
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043739582273855635",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SECGov: NEW 🚨: As part of Project Crypto, the Division of Trading and Markets issued a staff statement providing its views on broker-de…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 681,
+        "media_key": "3_2043739407388209153",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFzSKa7XcAE5K9d.png",
+        "width": 722
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855621322220437504",
+        "conversation_id": "2043958154770428193",
+        "created_at": "2026-04-14T07:42:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T08:42:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043958154770428193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "18481050",
+              "start": 3,
+              "username": "SECGov"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043958154770428193",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 383
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043739582273855635",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SECGov: NEW 🚨: As part of Project Crypto, the Division of Trading and Markets issued a staff statement providing its views on broker-de…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043739407388209153"
+          ]
+        },
+        "author_id": "18481050",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "id": "1585285924069335040",
+              "name": "Business & finance news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585285924069335040",
+              "name": "Business & finance news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation about global finance and economies.",
+              "id": "847511168268644352",
+              "name": "Global Economy"
+            }
+          }
+        ],
+        "conversation_id": "2043739582273855635",
+        "created_at": "2026-04-13T17:14:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T18:14:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043739582273855635"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Division of Trading and Markets",
+              "display_url": "ow.ly/fiGs50YImGn",
+              "end": 277,
+              "expanded_url": "https://ow.ly/fiGs50YImGn",
+              "start": 254,
+              "status": 200,
+              "title": "Lock",
+              "unwound_url": "https://www.sec.gov/newsroom/speeches-statements/staff-statement-regarding-broker-dealer-registration-certain-user-interfaces-utilized-prepare-staff-statement-regarding-broker-dealer-registration-certain-user-interfaces-utilized",
+              "url": "https://t.co/8jCwFOJZcw"
+            },
+            {
+              "display_url": "pic.x.com/gmp7jbBhgV",
+              "end": 301,
+              "expanded_url": "https://x.com/SECGov/status/2043739582273855635/photo/1",
+              "media_key": "3_2043739407388209153",
+              "start": 278,
+              "url": "https://t.co/gmp7jbBhgV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043739582273855635",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 221,
+          "impression_count": 428891,
+          "like_count": 1224,
+          "quote_count": 136,
+          "reply_count": 71,
+          "retweet_count": 383
+        },
+        "reply_settings": "everyone",
+        "text": "NEW 🚨: As part of Project Crypto, the Division of Trading and Markets issued a staff statement providing its views on broker-dealer registration requirements in connection with certain interfaces used to prepare transactions in crypto asset securities.\n\nhttps://t.co/8jCwFOJZcw https://t.co/gmp7jbBhgV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-10T14:39:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Berkeley, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.27275,
+                  37.87159
+                ],
+                "type": "Point"
+              },
+              "locality": "Berkeley",
+              "region": "California",
+              "sub_region": "Alameda County"
+            }
+          ]
+        },
+        "description": "喜欢小猫\n08 BPD/双相情感障碍 OD/SelfH友好\nweb3数字世界连接未来 美股/加密货币交易员\n成分复杂 摄影/音乐/文学/手游/端游… \n自行避雷 不限圈子 互fo必回",
+        "id": "1855621322220437504",
+        "location": "Berkeley, CA",
+        "name": "草履虫不会骑自行车",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025005442838265856/JBY6xIev_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 577,
+          "like_count": 1214,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 70
+        },
+        "username": "clcqzxc",
+        "verified": true
+      },
+      {
+        "created_at": "2008-12-30T16:40:00.000Z",
+        "description": "The SEC protects investors, maintains fair, orderly, and efficient markets, and facilitates capital formation. Disclaimer: https://t.co/kQaurNTXAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ow.ly/5hB230oHjhr",
+                "end": 146,
+                "expanded_url": "http://ow.ly/5hB230oHjhr",
+                "start": 123,
+                "url": "https://t.co/kQaurNTXAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sec.gov",
+                "end": 23,
+                "expanded_url": "http://sec.gov",
+                "start": 0,
+                "url": "https://t.co/SuY98jG2oo"
+              }
+            ]
+          }
+        },
+        "id": "18481050",
+        "location": "Washington, DC",
+        "name": "U.S. Securities and Exchange Commission",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1527037914659659777/9nXj4OYd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 805572,
+          "following_count": 16,
+          "like_count": 65,
+          "listed_count": 6766,
+          "media_count": 1782,
+          "tweet_count": 14882
+        },
+        "url": "https://t.co/SuY98jG2oo",
+        "username": "SECGov",
+        "verified": true
+      }
+    ]
+  }
+}

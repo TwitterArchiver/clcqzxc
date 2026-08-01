@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042910112675958786"
+      ],
+      "media_source_tweet_id": [
+        "2042910215155388522"
+      ]
+    },
+    "author_id": "1855621322220437504",
+    "conversation_id": "2043025322560598017",
+    "created_at": "2026-04-11T17:56:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T18:56:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043025322560598017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1552213521253150720",
+          "start": 3,
+          "username": "acnekot"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TtEgim8c4A",
+          "end": 48,
+          "expanded_url": "https://x.com/acnekot/status/2042910215155388522/photo/1",
+          "media_key": "3_2042910112675958786",
+          "start": 25,
+          "url": "https://t.co/TtEgim8c4A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043025322560598017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042910215155388522",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @acnekot: 电脑课无聊时必做的事情 https://t.co/TtEgim8c4A"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2042910112675958786",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFnf7HYakAIWiSH.jpg",
+        "width": 635
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042910112675958786"
+          ],
+          "media_source_tweet_id": [
+            "2042910215155388522"
+          ]
+        },
+        "author_id": "1855621322220437504",
+        "conversation_id": "2043025322560598017",
+        "created_at": "2026-04-11T17:56:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T18:56:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043025322560598017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1552213521253150720",
+              "start": 3,
+              "username": "acnekot"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TtEgim8c4A",
+              "end": 48,
+              "expanded_url": "https://x.com/acnekot/status/2042910215155388522/photo/1",
+              "media_key": "3_2042910112675958786",
+              "start": 25,
+              "url": "https://t.co/TtEgim8c4A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043025322560598017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042910215155388522",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @acnekot: 电脑课无聊时必做的事情 https://t.co/TtEgim8c4A"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042910112675958786"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "conversation_id": "2042910215155388522",
+        "created_at": "2026-04-11T10:18:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T11:18:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042910215155388522"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TtEgim8c4A",
+              "end": 35,
+              "expanded_url": "https://x.com/acnekot/status/2042910215155388522/photo/1",
+              "media_key": "3_2042910112675958786",
+              "start": 12,
+              "url": "https://t.co/TtEgim8c4A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042910215155388522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 7067,
+          "like_count": 169,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "电脑课无聊时必做的事情 https://t.co/TtEgim8c4A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-10T14:39:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Berkeley, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.27275,
+                  37.87159
+                ],
+                "type": "Point"
+              },
+              "locality": "Berkeley",
+              "region": "California",
+              "sub_region": "Alameda County"
+            }
+          ]
+        },
+        "description": "喜欢小猫\n08 BPD/双相情感障碍 OD/SelfH友好\nweb3数字世界连接未来 美股/加密货币交易员\n成分复杂 摄影/音乐/文学/手游/端游… \n自行避雷 不限圈子 互fo必回",
+        "id": "1855621322220437504",
+        "location": "Berkeley, CA",
+        "name": "草履虫不会骑自行车",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025005442838265856/JBY6xIev_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 493,
+          "like_count": 1103,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 55
+        },
+        "username": "clcqzxc",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat同名\n发言纯依靠我那微薄的知识 如有错意欢迎指正\n\nあなたと繋いだ それが浮遊感\n里推/tg:@nanno_64\n回fo请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 86,
+                "username": "nanno_64"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "我活着 我思考 我睡觉",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2010,
+          "following_count": 793,
+          "like_count": 89925,
+          "listed_count": 6,
+          "media_count": 3513,
+          "tweet_count": 15404
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      }
+    ]
+  }
+}

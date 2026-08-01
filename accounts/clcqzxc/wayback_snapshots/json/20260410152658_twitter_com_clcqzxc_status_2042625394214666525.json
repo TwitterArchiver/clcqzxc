@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042545899923214336"
+      ],
+      "media_source_tweet_id": [
+        "2042545904771895588"
+      ]
+    },
+    "author_id": "1855621322220437504",
+    "conversation_id": "2042625394214666525",
+    "created_at": "2026-04-10T15:26:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T16:26:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042625394214666525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1258032566801555458",
+          "start": 3,
+          "username": "minima_ai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sl3fIfoG7t",
+          "end": 38,
+          "expanded_url": "https://x.com/minima_ai/status/2042545904771895588/photo/1",
+          "media_key": "3_2042545899923214336",
+          "start": 15,
+          "url": "https://t.co/sl3fIfoG7t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042625394214666525",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042545904771895588",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @minima_ai: https://t.co/sl3fIfoG7t"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 784,
+        "media_key": "3_2042545899923214336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFiUrJJakAAJ1y3.jpg",
+        "width": 1168
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042545899923214336"
+          ],
+          "media_source_tweet_id": [
+            "2042545904771895588"
+          ]
+        },
+        "author_id": "1855621322220437504",
+        "conversation_id": "2042625394214666525",
+        "created_at": "2026-04-10T15:26:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T16:26:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042625394214666525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1258032566801555458",
+              "start": 3,
+              "username": "minima_ai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sl3fIfoG7t",
+              "end": 38,
+              "expanded_url": "https://x.com/minima_ai/status/2042545904771895588/photo/1",
+              "media_key": "3_2042545899923214336",
+              "start": 15,
+              "url": "https://t.co/sl3fIfoG7t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042625394214666525",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042545904771895588",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @minima_ai: https://t.co/sl3fIfoG7t"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042545899923214336"
+          ]
+        },
+        "author_id": "1258032566801555458",
+        "conversation_id": "2042545904771895588",
+        "created_at": "2026-04-10T10:11:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T11:11:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042545904771895588"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sl3fIfoG7t",
+              "end": 23,
+              "expanded_url": "https://x.com/minima_ai/status/2042545904771895588/photo/1",
+              "media_key": "3_2042545899923214336",
+              "start": 0,
+              "url": "https://t.co/sl3fIfoG7t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042545904771895588",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 2592,
+          "like_count": 252,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/sl3fIfoG7t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-10T14:39:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Berkeley, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.27275,
+                  37.87159
+                ],
+                "type": "Point"
+              },
+              "locality": "Berkeley",
+              "region": "California",
+              "sub_region": "Alameda County"
+            }
+          ]
+        },
+        "description": "喜欢小猫\nbpd/双相情感障碍 o/割友好 自行避雷\n混圈很杂 做美股/加密货币",
+        "id": "1855621322220437504",
+        "location": "Berkeley, CA",
+        "name": "草履虫不会骑自行车",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025005442838265856/JBY6xIev_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 398,
+          "like_count": 928,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 40
+        },
+        "username": "clcqzxc",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-06T13:55:20.000Z",
+        "description": "| 過去 | Experimental Composer (1i '11-'19) → https://t.co/RWjUhiGDhJ\n| 現在 | AIArt + Music + Video + AICording ↓",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "1imusic.bandcamp.com",
+                "end": 67,
+                "expanded_url": "https://1imusic.bandcamp.com/",
+                "start": 44,
+                "url": "https://t.co/RWjUhiGDhJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minimas.notion.site/MINIMA-Portfol…",
+                "end": 23,
+                "expanded_url": "https://minimas.notion.site/MINIMA-Portfolio-2a4a94aab829802997b5efc9eec83531",
+                "start": 0,
+                "url": "https://t.co/cyyvEQuIex"
+              }
+            ]
+          }
+        },
+        "id": "1258032566801555458",
+        "location": "高知県",
+        "name": "MINIMA",
+        "pinned_tweet_id": "2042231982197969327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963906184802693120/xqXllyV3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11273,
+          "following_count": 886,
+          "like_count": 27806,
+          "listed_count": 88,
+          "media_count": 3276,
+          "tweet_count": 5680
+        },
+        "url": "https://t.co/cyyvEQuIex",
+        "username": "minima_ai",
+        "verified": true
+      }
+    ]
+  }
+}

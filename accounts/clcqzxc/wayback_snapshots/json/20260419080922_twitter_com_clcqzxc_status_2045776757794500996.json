@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1855621322220437504",
+    "conversation_id": "2045776757794500996",
+    "created_at": "2026-04-19T08:09:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T09:09:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045776757794500996"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/vmikufansv/sta…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/vmikufansv/status/2044446236867211419",
+          "start": 14,
+          "url": "https://t.co/rS32QXO6aR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045776757794500996",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044446236867211419",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我都精神病了你们让让我吧😭 https://t.co/rS32QXO6aR"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855621322220437504",
+        "conversation_id": "2045776757794500996",
+        "created_at": "2026-04-19T08:09:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T09:09:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045776757794500996"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/vmikufansv/sta…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/vmikufansv/status/2044446236867211419",
+              "start": 14,
+              "url": "https://t.co/rS32QXO6aR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045776757794500996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044446236867211419",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我都精神病了你们让让我吧😭 https://t.co/rS32QXO6aR"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867596733884379136",
+        "conversation_id": "2044446236867211419",
+        "created_at": "2026-04-15T16:02:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T17:02:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044446236867211419"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044446236867211419",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 29559,
+          "like_count": 665,
+          "quote_count": 22,
+          "reply_count": 35,
+          "retweet_count": 77
+        },
+        "reply_settings": "everyone",
+        "text": "有没有一种可能 精神类疾病迟迟无法治愈 是因为你已经由衷地爱上了自己织好的这张网"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-10T14:39:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Berkeley, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.27275,
+                  37.87159
+                ],
+                "type": "Point"
+              },
+              "locality": "Berkeley",
+              "region": "California",
+              "sub_region": "Alameda County"
+            }
+          ]
+        },
+        "description": "喜欢小猫\n08 BPD/双相情感障碍 OD/SelfH友好\nweb3数字世界连接未来 美股/加密货币交易员\n成分复杂 摄影/音乐/文学/手游/端游… \n自行避雷 不限圈子 互fo必回",
+        "id": "1855621322220437504",
+        "location": "Berkeley, CA",
+        "name": "草履虫不会骑自行车",
+        "pinned_tweet_id": "2044324882364948718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025005442838265856/JBY6xIev_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 655,
+          "like_count": 1360,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 115
+        },
+        "username": "clcqzxc",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-13T15:46:06.000Z",
+        "description": "荆棘之路通往何处丨\n爱来自@N/A|\n🍥09/02/2023",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/vmikufansv",
+                "end": 23,
+                "expanded_url": "https://t.me/vmikufansv",
+                "start": 0,
+                "url": "https://t.co/Y4FXp5SvZP"
+              }
+            ]
+          }
+        },
+        "id": "1867596733884379136",
+        "location": "若叶2丁目2-12",
+        "name": "共价键ovo",
+        "pinned_tweet_id": "1867600061368254576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867597015129178112/AjHYA7j9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1252,
+          "following_count": 230,
+          "like_count": 499,
+          "listed_count": 5,
+          "media_count": 865,
+          "tweet_count": 4343
+        },
+        "url": "https://t.co/Y4FXp5SvZP",
+        "username": "VmikufansV",
+        "verified": false
+      }
+    ]
+  }
+}

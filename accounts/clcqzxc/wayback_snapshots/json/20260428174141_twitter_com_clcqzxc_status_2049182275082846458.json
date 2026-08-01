@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1855621322220437504",
+    "conversation_id": "2049121782918226073",
+    "created_at": "2026-04-28T17:41:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T18:41:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049182275082846458"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1682353179567214593",
+          "start": 0,
+          "username": "ooirrrrr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049182275082846458",
+    "in_reply_to_user_id": "1682353179567214593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049121782918226073",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ooirrrrr 已严肃急性铁中毒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855621322220437504",
+        "conversation_id": "2049121782918226073",
+        "created_at": "2026-04-28T17:41:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T18:41:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049182275082846458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1682353179567214593",
+              "start": 0,
+              "username": "ooirrrrr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049182275082846458",
+        "in_reply_to_user_id": "1682353179567214593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049121782918226073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ooirrrrr 已严肃急性铁中毒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682353179567214593",
+        "conversation_id": "2049121782918226073",
+        "created_at": "2026-04-28T13:41:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T14:41:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049121782918226073"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049121782918226073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 86736,
+          "like_count": 190,
+          "quote_count": 5,
+          "reply_count": 76,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "北京给我一种翻了墙马上就会被抓去枪毙的感觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-10T14:39:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Berkeley, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.27275,
+                  37.87159
+                ],
+                "type": "Point"
+              },
+              "locality": "Berkeley",
+              "region": "California",
+              "sub_region": "Alameda County"
+            }
+          ]
+        },
+        "description": "喜欢小猫\n08 BPD/双相情感障碍 OD/SelfH友好\n成分复杂 web3/美股/加密货币/摄影/音乐/文学/手游/端游… \n自行避雷 不限圈子 互fo必回",
+        "id": "1855621322220437504",
+        "location": "Berkeley, CA",
+        "name": "草履虫不会骑自行车",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025005442838265856/JBY6xIev_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 713,
+          "like_count": 1622,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 178
+        },
+        "username": "clcqzxc",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-21T11:34:09.000Z",
+        "description": "随便发",
+        "id": "1682353179567214593",
+        "name": "AAA内裤批发",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682353648259723268/p2UGRcKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8259,
+          "following_count": 42,
+          "like_count": 24,
+          "listed_count": 48,
+          "media_count": 108,
+          "tweet_count": 309
+        },
+        "username": "ooirrrrr",
+        "verified": false
+      }
+    ]
+  }
+}

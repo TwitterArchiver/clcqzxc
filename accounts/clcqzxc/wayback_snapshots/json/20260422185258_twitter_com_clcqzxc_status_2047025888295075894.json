@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1855621322220437504",
+    "conversation_id": "2047025888295075894",
+    "created_at": "2026-04-22T18:52:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T19:52:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047025888295075894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1505497355092885505",
+          "start": 3,
+          "username": "JYdmnLFG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047025888295075894",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046929981968982449",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JYdmnLFG: 近日的X打开恶俗到羞于说自己是币圈的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855621322220437504",
+        "conversation_id": "2047025888295075894",
+        "created_at": "2026-04-22T18:52:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T19:52:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047025888295075894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1505497355092885505",
+              "start": 3,
+              "username": "JYdmnLFG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047025888295075894",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046929981968982449",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JYdmnLFG: 近日的X打开恶俗到羞于说自己是币圈的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1505497355092885505",
+        "conversation_id": "2046929981968982449",
+        "created_at": "2026-04-22T12:31:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T13:31:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046929981968982449"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046929981968982449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3454,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "近日的X打开恶俗到羞于说自己是币圈的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-10T14:39:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Berkeley, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.27275,
+                  37.87159
+                ],
+                "type": "Point"
+              },
+              "locality": "Berkeley",
+              "region": "California",
+              "sub_region": "Alameda County"
+            }
+          ]
+        },
+        "description": "喜欢小猫\n08 BPD/双相情感障碍 OD/SelfH友好\n成分复杂 web3/美股/加密货币/摄影/音乐/文学/手游/端游… \n自行避雷 不限圈子 互fo必回",
+        "id": "1855621322220437504",
+        "location": "Berkeley, CA",
+        "name": "草履虫不会骑自行车",
+        "pinned_tweet_id": "2044324882364948718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025005442838265856/JBY6xIev_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 674,
+          "like_count": 1486,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 158
+        },
+        "username": "clcqzxc",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-20T10:52:12.000Z",
+        "description": "AI | Web3 | 🎥Youtube：JY叽叽歪歪 ｜🔗TG : https://t.co/H0yslMP00L ｜#Binance https://t.co/zu04G3ZWEE｜#OKX https://t.co/NL6La35Rhd",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 68,
+                "start": 60,
+                "tag": "Binance"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "OKX"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/jydmngroup",
+                "end": 58,
+                "expanded_url": "https://t.me/jydmngroup",
+                "start": 35,
+                "url": "https://t.co/H0yslMP00L"
+              },
+              {
+                "display_url": "binance.com/join?ref=36826…",
+                "end": 92,
+                "expanded_url": "https://www.binance.com/join?ref=368269863",
+                "start": 69,
+                "url": "https://t.co/zu04G3ZWEE"
+              },
+              {
+                "display_url": "okx.com/join/1862823",
+                "end": 121,
+                "expanded_url": "https://okx.com/join/1862823",
+                "start": 98,
+                "url": "https://t.co/NL6La35Rhd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/JYdmnLFG",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/JYdmnLFG",
+                "start": 0,
+                "url": "https://t.co/YFOMP1OWZn"
+              }
+            ]
+          }
+        },
+        "id": "1505497355092885505",
+        "location": "👉🏻",
+        "name": "JY 🎒",
+        "pinned_tweet_id": "2046061305899958334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770771250077376512/dlJMM-yd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36549,
+          "following_count": 1466,
+          "like_count": 27334,
+          "listed_count": 262,
+          "media_count": 1227,
+          "tweet_count": 14262
+        },
+        "url": "https://t.co/YFOMP1OWZn",
+        "username": "JYdmnLFG",
+        "verified": true
+      }
+    ]
+  }
+}

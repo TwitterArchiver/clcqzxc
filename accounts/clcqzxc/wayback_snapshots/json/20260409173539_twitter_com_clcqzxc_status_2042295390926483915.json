@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1855621322220437504",
+    "conversation_id": "2042295390926483915",
+    "created_at": "2026-04-09T17:35:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T18:35:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042295390926483915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2024718499206356992",
+          "start": 3,
+          "username": "FFFWEAR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042295390926483915",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042254688939360677",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FFFWEAR: 其实我一直不支持虐杀清道夫福寿螺之类，。额。这辈子做过最有血性的事就是对着这些只是按本能活着的生物发泄恶意吧，现实面对真的损害到自己利益的人怕是看了一眼都吓得漏尿。我也不是为这些生物发声什么毕竟它们智力低得都不知道自己在被折磨，单纯觉得这群人真是懦弱，…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855621322220437504",
+        "conversation_id": "2042295390926483915",
+        "created_at": "2026-04-09T17:35:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T18:35:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042295390926483915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2024718499206356992",
+              "start": 3,
+              "username": "FFFWEAR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042295390926483915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042254688939360677",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FFFWEAR: 其实我一直不支持虐杀清道夫福寿螺之类，。额。这辈子做过最有血性的事就是对着这些只是按本能活着的生物发泄恶意吧，现实面对真的损害到自己利益的人怕是看了一眼都吓得漏尿。我也不是为这些生物发声什么毕竟它们智力低得都不知道自己在被折磨，单纯觉得这群人真是懦弱，…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024718499206356992",
+        "conversation_id": "2042254688939360677",
+        "created_at": "2026-04-09T14:53:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T15:53:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042254688939360677"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042254688939360677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1663,
+          "like_count": 45,
+          "quote_count": 3,
+          "reply_count": 12,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "其实我一直不支持虐杀清道夫福寿螺之类，。额。这辈子做过最有血性的事就是对着这些只是按本能活着的生物发泄恶意吧，现实面对真的损害到自己利益的人怕是看了一眼都吓得漏尿。我也不是为这些生物发声什么毕竟它们智力低得都不知道自己在被折磨，单纯觉得这群人真是懦弱，又想做恶又想彰显自己正义"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-10T14:39:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Berkeley, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.27275,
+                  37.87159
+                ],
+                "type": "Point"
+              },
+              "locality": "Berkeley",
+              "region": "California",
+              "sub_region": "Alameda County"
+            }
+          ]
+        },
+        "description": "喜欢小猫",
+        "id": "1855621322220437504",
+        "location": "Berkeley, CA",
+        "name": "草履虫不会骑自行车",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025005442838265856/JBY6xIev_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 320,
+          "like_count": 793,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 25
+        },
+        "username": "clcqzxc",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-20T05:31:33.000Z",
+        "description": "大四实习中。去在意一些真的值得在意的东西吧。喜欢我可以给我打钱额说别的我听不懂",
+        "id": "2024718499206356992",
+        "name": "玻璃剑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035006605499277313/8gwKuCTN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 792,
+          "following_count": 9,
+          "like_count": 1295,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 207
+        },
+        "username": "FFFWEAR",
+        "verified": false
+      }
+    ]
+  }
+}

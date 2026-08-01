@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064857741840064512"
+      ],
+      "media_source_tweet_id": [
+        "2064857756578857012"
+      ]
+    },
+    "author_id": "1855621322220437504",
+    "conversation_id": "2064977987817419043",
+    "created_at": "2026-06-11T07:48:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T08:48:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064977987817419043"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1837870417526378501",
+          "start": 3,
+          "username": "Classisco123"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fwyB4RGhhz",
+          "end": 76,
+          "expanded_url": "https://x.com/Classisco123/status/2064857756578857012/photo/1",
+          "media_key": "3_2064857741840064512",
+          "start": 53,
+          "url": "https://t.co/fwyB4RGhhz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064977987817419043",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 658
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064857756578857012",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Classisco123: I hope you come by my side tonight https://t.co/fwyB4RGhhz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1330,
+        "media_key": "3_2064857741840064512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKfZLRYXoAAePeJ.jpg",
+        "width": 1135
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064857741840064512"
+          ],
+          "media_source_tweet_id": [
+            "2064857756578857012"
+          ]
+        },
+        "author_id": "1855621322220437504",
+        "conversation_id": "2064977987817419043",
+        "created_at": "2026-06-11T07:48:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T08:48:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064977987817419043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1837870417526378501",
+              "start": 3,
+              "username": "Classisco123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fwyB4RGhhz",
+              "end": 76,
+              "expanded_url": "https://x.com/Classisco123/status/2064857756578857012/photo/1",
+              "media_key": "3_2064857741840064512",
+              "start": 53,
+              "url": "https://t.co/fwyB4RGhhz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064977987817419043",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 658
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064857756578857012",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Classisco123: I hope you come by my side tonight https://t.co/fwyB4RGhhz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064857741840064512"
+          ]
+        },
+        "author_id": "1837870417526378501",
+        "conversation_id": "2064857756578857012",
+        "created_at": "2026-06-10T23:50:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T00:50:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064857756578857012"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fwyB4RGhhz",
+              "end": 58,
+              "expanded_url": "https://x.com/Classisco123/status/2064857756578857012/photo/1",
+              "media_key": "3_2064857741840064512",
+              "start": 35,
+              "url": "https://t.co/fwyB4RGhhz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064857756578857012",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 169,
+          "impression_count": 54418,
+          "like_count": 6451,
+          "quote_count": 19,
+          "reply_count": 1,
+          "retweet_count": 658
+        },
+        "reply_settings": "everyone",
+        "text": "I hope you come by my side tonight https://t.co/fwyB4RGhhz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-10T14:39:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Berkeley, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.27275,
+                  37.87159
+                ],
+                "type": "Point"
+              },
+              "locality": "Berkeley",
+              "region": "California",
+              "sub_region": "Alameda County"
+            }
+          ]
+        },
+        "description": "喜欢小猫\n08 顺女 BPD/双相情感障碍 OD/SelfH/跨友好\n成分复杂 web3/美股/加密货币/摄影/音乐/文学/手游/端游… \n自行避雷 不限圈子 互fo必回",
+        "id": "1855621322220437504",
+        "location": "Berkeley, CA",
+        "name": "草履虫不会骑自行车",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025005442838265856/JBY6xIev_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 852,
+          "like_count": 2209,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 287
+        },
+        "username": "clcqzxc",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-22T15:04:02.000Z",
+        "description": "Wallpaper Plug ,Classis inspiration daily 💥⚡| Dm for Credit",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/2funnyconcq",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/2funnyconcq",
+                "start": 0,
+                "url": "https://t.co/L0X3wxLq8a"
+              }
+            ]
+          }
+        },
+        "id": "1837870417526378501",
+        "name": "Classic arts & Wallpapers 🥷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999801094159933446/WnobSEea_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331028,
+          "following_count": 1012,
+          "like_count": 68767,
+          "listed_count": 490,
+          "media_count": 7348,
+          "tweet_count": 54489
+        },
+        "url": "https://t.co/L0X3wxLq8a",
+        "username": "Classisco123",
+        "verified": true
+      }
+    ]
+  }
+}

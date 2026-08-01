@@ -1,0 +1,111 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1855621322220437504",
+    "conversation_id": "2025003844779000228",
+    "created_at": "2026-02-21T00:25:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T01:25:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025003844779000228"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2025003844779000228",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "拉莫三嗪就是灵珠药"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855621322220437504",
+        "conversation_id": "2025003844779000228",
+        "created_at": "2026-02-21T00:25:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T01:25:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025003844779000228"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025003844779000228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "拉莫三嗪就是灵珠药"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-10T14:39:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Berkeley, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.27275,
+                  37.87159
+                ],
+                "type": "Point"
+              },
+              "locality": "Berkeley",
+              "region": "California",
+              "sub_region": "Alameda County"
+            }
+          ]
+        },
+        "description": "你是我的不幸和我的大幸 纯真而无穷无尽",
+        "id": "1855621322220437504",
+        "location": "Berkeley, CA",
+        "name": "Clcqzxc",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855621608578109440/fRujBvSA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 107,
+          "like_count": 145,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "clcqzxc",
+        "verified": false
+      }
+    ]
+  }
+}

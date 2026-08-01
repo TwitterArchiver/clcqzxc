@@ -1,0 +1,151 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038719645159657472"
+      ]
+    },
+    "author_id": "1855621322220437504",
+    "conversation_id": "2038719654966005869",
+    "created_at": "2026-03-30T20:46:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T21:46:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038719654966005869"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0X3thqywDi",
+          "end": 23,
+          "expanded_url": "https://x.com/clcqzxc/status/2038719654966005869/photo/1",
+          "media_key": "3_2038719645159657472",
+          "start": 0,
+          "url": "https://t.co/0X3thqywDi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038719654966005869",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/0X3thqywDi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2038719645159657472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEr8tzZaEAAMx2b.jpg",
+        "width": 1150
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038719645159657472"
+          ]
+        },
+        "author_id": "1855621322220437504",
+        "conversation_id": "2038719654966005869",
+        "created_at": "2026-03-30T20:46:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T21:46:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038719654966005869"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0X3thqywDi",
+              "end": 23,
+              "expanded_url": "https://x.com/clcqzxc/status/2038719654966005869/photo/1",
+              "media_key": "3_2038719645159657472",
+              "start": 0,
+              "url": "https://t.co/0X3thqywDi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038719654966005869",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/0X3thqywDi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-10T14:39:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Berkeley, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.27275,
+                  37.87159
+                ],
+                "type": "Point"
+              },
+              "locality": "Berkeley",
+              "region": "California",
+              "sub_region": "Alameda County"
+            }
+          ]
+        },
+        "description": "喜欢小猫",
+        "id": "1855621322220437504",
+        "location": "Berkeley, CA",
+        "name": "草履虫不会骑自行车",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025005442838265856/JBY6xIev_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 166,
+          "like_count": 310,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 8
+        },
+        "username": "clcqzxc",
+        "verified": false
+      }
+    ]
+  }
+}

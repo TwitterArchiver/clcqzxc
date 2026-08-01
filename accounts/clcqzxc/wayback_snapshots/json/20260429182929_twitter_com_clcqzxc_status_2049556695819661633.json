@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1855621322220437504",
+    "conversation_id": "2049556695819661633",
+    "created_at": "2026-04-29T18:29:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T19:29:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049556695819661633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1332712954047856641",
+          "start": 3,
+          "username": "xinwendiaocha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049556695819661633",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049551803826717122",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xinwendiaocha: 美联储决议全文：连续第三次按兵不动但分歧加剧 \n￼\n美联储连续第三次维持利率不变，但内部投票出现分歧，一名官员主张降息，另有三人反对释放宽松信号。中东局势与能源价格波动进一步放大经济前景不确定性。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855621322220437504",
+        "conversation_id": "2049556695819661633",
+        "created_at": "2026-04-29T18:29:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T19:29:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049556695819661633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1332712954047856641",
+              "start": 3,
+              "username": "xinwendiaocha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049556695819661633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049551803826717122",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xinwendiaocha: 美联储决议全文：连续第三次按兵不动但分歧加剧 \n￼\n美联储连续第三次维持利率不变，但内部投票出现分歧，一名官员主张降息，另有三人反对释放宽松信号。中东局势与能源价格波动进一步放大经济前景不确定性。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1332712954047856641",
+        "conversation_id": "2049551803826717122",
+        "created_at": "2026-04-29T18:10:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T19:10:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049551803826717122"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049551803826717122",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "美联储决议全文：连续第三次按兵不动但分歧加剧 \n￼\n美联储连续第三次维持利率不变，但内部投票出现分歧，一名官员主张降息，另有三人反对释放宽松信号。中东局势与能源价格波动进一步放大经济前景不确定性。\n北京时间4月30日，美联储将基准利率维持在3.50%-3.75%不变，连续第三次会议按兵不动，符合市场预期。FOMC以8比4的投票结果通过了该决议，米兰投了反对票，支持降息0.25个百分点；哈马克、卡什卡利和洛根投了反对票，反对在声明中加入未来宽松倾向的内容。\n利率决议全文\n近期指标表明，经济活动以稳健的步伐扩张。就业增长总体上较为疲弱，失业率在近几个月变化不大。通胀水平依然较高，部分反映了近期全球能源价格的上涨。\n委员会致力于在长期内实现充分就业，并将通胀维持在2%的水平。中东局势的发展正加剧经济前景的不确定性。委员会密切关注其双重使命两方面面临的风险。\n为支持上述目标，委员会决定将联邦基金利率目标区间维持在3.5%-3.75%。在考虑对该目标区间进行进一步调整的幅度和时机时，委员会将审慎评估最新数据、前景变化以及风险平衡。委员会坚定致力于支持充分就业，并将通胀率恢复至2%的目标。\n在评估适当的货币政策立场时，委员会将继续关注新获取信息对经济前景的影响。如出现可能阻碍委员会目标实现的风险，委员会准备在必要时调整货币政策立场。委员会的评估将综合考虑多方面信息，包括劳动力市场状况、通胀压力与通胀预期，以及金融和国际形势的发展。\n投票支持本次货币政策行动的委员包括：杰罗姆·H·鲍威尔（Jerome H. Powell），主席；约翰·C·威廉姆斯（John C. Williams），副主席；迈克尔·S·巴尔（Michael S. Barr）；米歇尔·W·鲍曼（Michelle W. Bowman）；丽莎·D·库克（Lisa D. Cook）；菲利普·N·杰斐逊（Philip N. Jefferson）；安娜·保尔森（Anna Paulson）；克里斯托弗·J·沃勒（Christopher J. Waller）。\n反对本次行动的委员包括：斯蒂芬·I·米兰（Stephen I. Miran），其倾向于在本次会议上将联邦基金利率目标区间下调0.25个百分点；以及贝丝·M·哈马克（Beth M. Hammack）、尼尔·卡什卡利（Neel Kashkari）和洛丽·K·洛根（Lorie K. Logan），他们支持维持联邦基金利率目标区间不变，但不支持在当前声明中加入宽松倾向。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 448,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "美联储决议全文：连续第三次按兵不动但分歧加剧 \n￼\n美联储连续第三次维持利率不变，但内部投票出现分歧，一名官员主张降息，另有三人反对释放宽松信号。中东局势与能源价格波动进一步放大经济前景不确定性。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-10T14:39:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Berkeley, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.27275,
+                  37.87159
+                ],
+                "type": "Point"
+              },
+              "locality": "Berkeley",
+              "region": "California",
+              "sub_region": "Alameda County"
+            }
+          ]
+        },
+        "description": "喜欢小猫\n08 BPD/双相情感障碍 OD/SelfH友好\n成分复杂 web3/美股/加密货币/摄影/音乐/文学/手游/端游… \n自行避雷 不限圈子 互fo必回",
+        "id": "1855621322220437504",
+        "location": "Berkeley, CA",
+        "name": "草履虫不会骑自行车",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025005442838265856/JBY6xIev_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 735,
+          "like_count": 1672,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 187
+        },
+        "username": "clcqzxc",
+        "verified": true
+      },
+      {
+        "created_at": "2020-11-28T15:48:33.000Z",
+        "description": "追踪新闻，调查真相！ 投稿、商务合作邮箱：charles811203@gmail.com threads:https://t.co/vWaJQJxkd5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "threads.com/@caijingshujuk…",
+                "end": 76,
+                "expanded_url": "https://www.threads.com/@caijingshujuku?igshid=NTc4MTIwNjQ2YQ==",
+                "start": 53,
+                "url": "https://t.co/vWaJQJxkd5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@caijinglengya…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@caijinglengyan?si=c8_FduFeV9Xu3KnO",
+                "start": 0,
+                "url": "https://t.co/7tHKzRuGFb"
+              }
+            ]
+          }
+        },
+        "id": "1332712954047856641",
+        "name": "新闻调查",
+        "pinned_tweet_id": "2048123518550966548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1347827975383760896/6aV1UyGk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 644396,
+          "following_count": 151,
+          "like_count": 4353,
+          "listed_count": 1690,
+          "media_count": 39974,
+          "tweet_count": 62010
+        },
+        "url": "https://t.co/7tHKzRuGFb",
+        "username": "xinwendiaocha",
+        "verified": true
+      }
+    ]
+  }
+}

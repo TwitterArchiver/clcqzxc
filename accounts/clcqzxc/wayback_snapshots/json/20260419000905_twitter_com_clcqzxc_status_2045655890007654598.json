@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1855621322220437504",
+    "conversation_id": "2045655890007654598",
+    "created_at": "2026-04-19T00:09:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T01:09:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045655890007654598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1997316772568174592",
+          "start": 3,
+          "username": "linche262"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045655890007654598",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045430190021750981",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @linche262: 无中生有是隐性  有中生无叫大叔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855621322220437504",
+        "conversation_id": "2045655890007654598",
+        "created_at": "2026-04-19T00:09:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T01:09:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045655890007654598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1997316772568174592",
+              "start": 3,
+              "username": "linche262"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045655890007654598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045430190021750981",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @linche262: 无中生有是隐性  有中生无叫大叔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997316772568174592",
+        "conversation_id": "2045430190021750981",
+        "created_at": "2026-04-18T09:12:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T10:12:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045430190021750981"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045430190021750981",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2127,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "无中生有是隐性  有中生无叫大叔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-10T14:39:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Berkeley, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.27275,
+                  37.87159
+                ],
+                "type": "Point"
+              },
+              "locality": "Berkeley",
+              "region": "California",
+              "sub_region": "Alameda County"
+            }
+          ]
+        },
+        "description": "喜欢小猫\n08 BPD/双相情感障碍 OD/SelfH友好\nweb3数字世界连接未来 美股/加密货币交易员\n成分复杂 摄影/音乐/文学/手游/端游… \n自行避雷 不限圈子 互fo必回",
+        "id": "1855621322220437504",
+        "location": "Berkeley, CA",
+        "name": "草履虫不会骑自行车",
+        "pinned_tweet_id": "2044324882364948718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025005442838265856/JBY6xIev_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 654,
+          "like_count": 1345,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 111
+        },
+        "username": "clcqzxc",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-06T14:47:11.000Z",
+        "description": "普通社畜（社畜的意思是已经工作了） m/sub 声控手控\n请不要管我要联系方式和坐标，想加你的话我会主动要你的vx的🥰私信只回感兴趣的消息\n欢迎给我发送匿名✉️https://t.co/vOFRyvW9co",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/linche2622",
+                "end": 103,
+                "expanded_url": "https://ngl.link/linche2622",
+                "start": 80,
+                "url": "https://t.co/vOFRyvW9co"
+              }
+            ]
+          }
+        },
+        "id": "1997316772568174592",
+        "name": "北岸雪",
+        "pinned_tweet_id": "2029922628954472466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028050524373975040/Daoa-4nh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 975,
+          "following_count": 76,
+          "like_count": 2708,
+          "listed_count": 2,
+          "media_count": 56,
+          "tweet_count": 350
+        },
+        "username": "linche262",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049493857948389376"
+      ],
+      "media_source_tweet_id": [
+        "2049493871097495930"
+      ]
+    },
+    "author_id": "1855621322220437504",
+    "conversation_id": "2049819532441927822",
+    "created_at": "2026-04-30T11:53:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T12:53:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049819532441927822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2717163241",
+          "start": 3,
+          "username": "pikuson_crazy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aubbGGj0Kv",
+          "end": 42,
+          "expanded_url": "https://x.com/pikuson_crazy/status/2049493871097495930/photo/1",
+          "media_key": "3_2049493857948389376",
+          "start": 19,
+          "url": "https://t.co/aubbGGj0Kv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049819532441927822",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1568
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049493871097495930",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pikuson_crazy: https://t.co/aubbGGj0Kv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3358,
+        "media_key": "3_2049493857948389376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHFDzhxb0AADO_t.jpg",
+        "width": 2787
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049493857948389376"
+          ],
+          "media_source_tweet_id": [
+            "2049493871097495930"
+          ]
+        },
+        "author_id": "1855621322220437504",
+        "conversation_id": "2049819532441927822",
+        "created_at": "2026-04-30T11:53:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T12:53:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049819532441927822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2717163241",
+              "start": 3,
+              "username": "pikuson_crazy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aubbGGj0Kv",
+              "end": 42,
+              "expanded_url": "https://x.com/pikuson_crazy/status/2049493871097495930/photo/1",
+              "media_key": "3_2049493857948389376",
+              "start": 19,
+              "url": "https://t.co/aubbGGj0Kv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049819532441927822",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1568
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049493871097495930",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pikuson_crazy: https://t.co/aubbGGj0Kv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049493857948389376"
+          ]
+        },
+        "author_id": "2717163241",
+        "conversation_id": "2049493871097495930",
+        "created_at": "2026-04-29T14:19:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T15:19:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049493871097495930"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aubbGGj0Kv",
+              "end": 23,
+              "expanded_url": "https://x.com/pikuson_crazy/status/2049493871097495930/photo/1",
+              "media_key": "3_2049493857948389376",
+              "start": 0,
+              "url": "https://t.co/aubbGGj0Kv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049493871097495930",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1830,
+          "impression_count": 195141,
+          "like_count": 20225,
+          "quote_count": 6,
+          "reply_count": 15,
+          "retweet_count": 1568
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/aubbGGj0Kv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-10T14:39:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Berkeley, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.27275,
+                  37.87159
+                ],
+                "type": "Point"
+              },
+              "locality": "Berkeley",
+              "region": "California",
+              "sub_region": "Alameda County"
+            }
+          ]
+        },
+        "description": "喜欢小猫\n08 BPD/双相情感障碍 OD/SelfH友好\n成分复杂 web3/美股/加密货币/摄影/音乐/文学/手游/端游… \n自行避雷 不限圈子 互fo必回",
+        "id": "1855621322220437504",
+        "location": "Berkeley, CA",
+        "name": "草履虫不会骑自行车",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025005442838265856/JBY6xIev_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 739,
+          "like_count": 1680,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 188
+        },
+        "username": "clcqzxc",
+        "verified": true
+      },
+      {
+        "created_at": "2014-08-08T13:45:00.000Z",
+        "description": "泣きぼくろとタバコが好きです。\nSkeb：https://t.co/sLkzgUK6w7 pixiv：https://t.co/hmKmapqxzL\nFANBOX:https://t.co/q3g1Dp93NLお題箱：https://t.co/ImkJ07NF82",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@pikuson",
+                "end": 44,
+                "expanded_url": "http://skeb.jp/@pikuson",
+                "start": 21,
+                "url": "https://t.co/sLkzgUK6w7"
+              },
+              {
+                "display_url": "pixiv.net/users/15578906/",
+                "end": 74,
+                "expanded_url": "http://pixiv.net/users/15578906/",
+                "start": 51,
+                "url": "https://t.co/hmKmapqxzL"
+              },
+              {
+                "display_url": "pikuson.fanbox.cc",
+                "end": 105,
+                "expanded_url": "https://pikuson.fanbox.cc/",
+                "start": 82,
+                "url": "https://t.co/q3g1Dp93NL"
+              },
+              {
+                "display_url": "odaibako.net/u/pikuson_crazy",
+                "end": 132,
+                "expanded_url": "https://odaibako.net/u/pikuson_crazy",
+                "start": 109,
+                "url": "https://t.co/ImkJ07NF82"
+              }
+            ]
+          }
+        },
+        "id": "2717163241",
+        "location": "ご依頼募集中です pikusonnnnn@gmail.com",
+        "name": "pikuson",
+        "pinned_tweet_id": "1630180763848306688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1639977176819990528/9j3Kxhmt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68885,
+          "following_count": 3102,
+          "like_count": 77811,
+          "listed_count": 499,
+          "media_count": 4080,
+          "tweet_count": 72275
+        },
+        "username": "pikuson_crazy",
+        "verified": false
+      }
+    ]
+  }
+}
