@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082880150845423616"
+      ],
+      "media_source_tweet_id": [
+        "2082994657466712296"
+      ]
+    },
+    "author_id": "1855621322220437504",
+    "conversation_id": "2083307432407896164",
+    "created_at": "2026-07-31T21:42:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T22:42:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083307432407896164"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1327816489",
+          "start": 3,
+          "username": "animal_kyawa_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6mDwf9Ihfa",
+          "end": 65,
+          "expanded_url": "https://x.com/animal_kyawa_/status/2082994657466712296/photo/1",
+          "media_key": "3_2082880150845423616",
+          "start": 42,
+          "url": "https://t.co/6mDwf9Ihfa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083307432407896164",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 186
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082994657466712296",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @animal_kyawa_: 尻尾がハート♡\nあまりにも神々しすぎる一枚… https://t.co/6mDwf9Ihfa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1478,
+        "media_key": "3_2082880150845423616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOfgdizagAAV06e.jpg",
+        "width": 1143
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082880150845423616"
+          ]
+        },
+        "author_id": "1327816489",
+        "conversation_id": "2082994657466712296",
+        "created_at": "2026-07-31T01:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T02:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082994657466712296"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6mDwf9Ihfa",
+              "end": 46,
+              "expanded_url": "https://x.com/animal_kyawa_/status/2082994657466712296/photo/1",
+              "media_key": "3_2082880150845423616",
+              "start": 23,
+              "url": "https://t.co/6mDwf9Ihfa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082994657466712296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 93,
+          "impression_count": 29115,
+          "like_count": 2768,
+          "quote_count": 4,
+          "reply_count": 13,
+          "retweet_count": 186
+        },
+        "reply_settings": "everyone",
+        "text": "尻尾がハート♡\nあまりにも神々しすぎる一枚… https://t.co/6mDwf9Ihfa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082880150845423616"
+          ],
+          "media_source_tweet_id": [
+            "2082994657466712296"
+          ]
+        },
+        "author_id": "1855621322220437504",
+        "conversation_id": "2083307432407896164",
+        "created_at": "2026-07-31T21:42:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T22:42:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083307432407896164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1327816489",
+              "start": 3,
+              "username": "animal_kyawa_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6mDwf9Ihfa",
+              "end": 65,
+              "expanded_url": "https://x.com/animal_kyawa_/status/2082994657466712296/photo/1",
+              "media_key": "3_2082880150845423616",
+              "start": 42,
+              "url": "https://t.co/6mDwf9Ihfa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083307432407896164",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 186
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082994657466712296",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @animal_kyawa_: 尻尾がハート♡\nあまりにも神々しすぎる一枚… https://t.co/6mDwf9Ihfa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-10T14:39:56.000Z",
+        "description": "喜欢小猫\n08 顺女 BPD/双相情感障碍 OD/SelfH/跨友好\n成分复杂 web3/美股/加密货币/摄影/音乐/文学/手游/端游… \n自行避雷 所有圈子都来找我互fo呀 喜欢你们",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hz11aaa_17",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hz11aaa_17",
+                "start": 0,
+                "url": "https://t.co/dfJR226cGS"
+              }
+            ]
+          }
+        },
+        "id": "1855621322220437504",
+        "location": "命運之外",
+        "name": "草履虫不会骑自行车",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083204784719593472/rzNjXLqh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 867,
+          "like_count": 2296,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 339
+        },
+        "url": "https://t.co/dfJR226cGS",
+        "username": "clcqzxc",
+        "verified": false
+      },
+      {
+        "created_at": "2013-04-04T21:03:00.000Z",
+        "description": "かわいい動物達を上げています🐶🐱",
+        "id": "1327816489",
+        "name": "犬しか勝たん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033416536736862208/4oF6B8c__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18216,
+          "following_count": 1,
+          "like_count": 2169,
+          "listed_count": 56,
+          "media_count": 1585,
+          "tweet_count": 21246
+        },
+        "url": "",
+        "username": "animal_kyawa_",
+        "verified": true
+      }
+    ]
+  }
+}

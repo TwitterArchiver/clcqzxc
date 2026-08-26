@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1855621322220437504",
+    "conversation_id": "2084919885852033194",
+    "created_at": "2026-08-05T08:30:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T09:30:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084919885852033194"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kapi7749/statu…",
+          "end": 79,
+          "expanded_url": "https://twitter.com/kapi7749/status/2084629590119690561",
+          "start": 56,
+          "url": "https://t.co/N1SlmoCw5c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084919885852033194",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084629590119690561",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我明明开始是就是这样的…为什么要走到现在这一步呢？可能是对方不至于隐瞒和留白，而是欺瞒敷衍和不负责任吧。对不起 https://t.co/N1SlmoCw5c"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855621322220437504",
+        "conversation_id": "2084919885852033194",
+        "created_at": "2026-08-05T08:30:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T09:30:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084919885852033194"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kapi7749/statu…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/kapi7749/status/2084629590119690561",
+              "start": 56,
+              "url": "https://t.co/N1SlmoCw5c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084919885852033194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084629590119690561",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我明明开始是就是这样的…为什么要走到现在这一步呢？可能是对方不至于隐瞒和留白，而是欺瞒敷衍和不负责任吧。对不起 https://t.co/N1SlmoCw5c"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1803759379763875840",
+        "conversation_id": "2084629590119690561",
+        "created_at": "2026-08-04T13:16:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T14:16:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084629590119690561"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084629590119690561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 2810,
+          "like_count": 118,
+          "quote_count": 4,
+          "reply_count": 9,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "要允许爱人有留白，爱一个人就要接受他的一切，至于他对你隐瞒了什么，止步于某件事，都是对方的选择和自由，应该尊重他不愿让人知晓的一面，而不是逼着对方撕开这些难堪，如果对方想让我进一步了解他，那我迟早会走进那扇心门，时机未到，我现在能做的就是在门口徘徊，亲爱的，我看不懂你，但我爱你。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-10T14:39:56.000Z",
+        "description": "喜欢小猫\n08 顺女 现生有男友 BPD/双相情感障碍 OD/SelfH/跨友好\n成分复杂 web3/美股/加密货币/摄影/音乐/文学/手游/端游… \n自行避雷 所有圈子都来找我互fo呀 喜欢你们",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hz11aaa_17",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hz11aaa_17",
+                "start": 0,
+                "url": "https://t.co/dfJR226cGS"
+              }
+            ]
+          }
+        },
+        "id": "1855621322220437504",
+        "location": "命運之外",
+        "name": "草履虫不会骑自行车",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083204784719593472/rzNjXLqh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 943,
+          "like_count": 2585,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 378
+        },
+        "url": "https://t.co/dfJR226cGS",
+        "username": "clcqzxc",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-20T11:58:56.000Z",
+        "description": "你最大的错误 就是与我为敌",
+        "id": "1803759379763875840",
+        "location": "hi",
+        "name": "猫子厨厨",
+        "pinned_tweet_id": "2058510552289386848",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083917125371211776/ozgSh0ts_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1393,
+          "following_count": 71,
+          "like_count": 4015,
+          "listed_count": 2,
+          "media_count": 147,
+          "tweet_count": 1172
+        },
+        "url": "",
+        "username": "kapi7749",
+        "verified": false
+      }
+    ]
+  }
+}

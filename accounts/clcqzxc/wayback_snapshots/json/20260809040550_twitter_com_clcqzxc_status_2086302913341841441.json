@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1855621322220437504",
+    "conversation_id": "2086211316738584644",
+    "created_at": "2026-08-09T04:05:50.000Z",
+    "display_text_range": [
+      0,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T05:05:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086302913341841441"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2086302913341841441",
+    "in_reply_to_user_id": "1855621322220437504",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086211316738584644",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "下次要不吃阿普直接5t起步。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855621322220437504",
+        "conversation_id": "2086211316738584644",
+        "created_at": "2026-08-09T04:05:50.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T05:05:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086302913341841441"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086302913341841441",
+        "in_reply_to_user_id": "1855621322220437504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086211316738584644",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "下次要不吃阿普直接5t起步。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855621322220437504",
+        "conversation_id": "2086211316738584644",
+        "created_at": "2026-08-08T22:01:52.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-08T23:01:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086211316738584644"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086211316738584644",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好恨啊。。我怎么现在还没法睡着 我只能睡三个小小时了啊。我需要更强力的安眠药。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-10T14:39:56.000Z",
+        "description": "喜欢小猫\n08 顺女 现生有男友 BPD/双相情感障碍 OD/SelfH/跨友好\n成分复杂 web3/美股/加密货币/摄影/音乐/文学/手游/端游… \n自行避雷 所有圈子都来找我互fo呀 喜欢你们",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hz11aaa_17",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hz11aaa_17",
+                "start": 0,
+                "url": "https://t.co/dfJR226cGS"
+              }
+            ]
+          }
+        },
+        "id": "1855621322220437504",
+        "is_identity_verified": false,
+        "location": "命運之外",
+        "most_recent_tweet_id": "2086302913341841441",
+        "name": "草履虫不会骑自行车",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1855621322220437504/1785509738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083204784719593472/rzNjXLqh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 970,
+          "like_count": 2718,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 390
+        },
+        "url": "https://t.co/dfJR226cGS",
+        "username": "clcqzxc",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

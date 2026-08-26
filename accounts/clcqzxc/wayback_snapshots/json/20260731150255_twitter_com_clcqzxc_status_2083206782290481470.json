@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082947773075521536"
+      ],
+      "media_source_tweet_id": [
+        "2082947781455692280"
+      ]
+    },
+    "author_id": "1855621322220437504",
+    "conversation_id": "2083206782290481470",
+    "created_at": "2026-07-31T15:02:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T16:02:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083206782290481470"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "225551618",
+          "start": 3,
+          "username": "nekokolife"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OQloV5Mtxz",
+          "end": 56,
+          "expanded_url": "https://x.com/nekokolife/status/2082947781455692280/photo/1",
+          "media_key": "3_2082947773075521536",
+          "start": 33,
+          "url": "https://t.co/OQloV5Mtxz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083206782290481470",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1197
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082947781455692280",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nekokolife: お風呂入って蛇みたいになってた猫 https://t.co/OQloV5Mtxz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_2082947773075521536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOgd9rPbgAAAXEX.jpg",
+        "width": 667
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082947773075521536"
+          ]
+        },
+        "author_id": "225551618",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2082947781455692280",
+        "created_at": "2026-07-30T21:53:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T22:53:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082947781455692280"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OQloV5Mtxz",
+              "end": 40,
+              "expanded_url": "https://x.com/nekokolife/status/2082947781455692280/photo/1",
+              "media_key": "3_2082947773075521536",
+              "start": 17,
+              "url": "https://t.co/OQloV5Mtxz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082947781455692280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 367,
+          "impression_count": 188281,
+          "like_count": 12034,
+          "quote_count": 94,
+          "reply_count": 65,
+          "retweet_count": 1197
+        },
+        "reply_settings": "everyone",
+        "text": "お風呂入って蛇みたいになってた猫 https://t.co/OQloV5Mtxz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082947773075521536"
+          ],
+          "media_source_tweet_id": [
+            "2082947781455692280"
+          ]
+        },
+        "author_id": "1855621322220437504",
+        "conversation_id": "2083206782290481470",
+        "created_at": "2026-07-31T15:02:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T16:02:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083206782290481470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "225551618",
+              "start": 3,
+              "username": "nekokolife"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OQloV5Mtxz",
+              "end": 56,
+              "expanded_url": "https://x.com/nekokolife/status/2082947781455692280/photo/1",
+              "media_key": "3_2082947773075521536",
+              "start": 33,
+              "url": "https://t.co/OQloV5Mtxz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083206782290481470",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1197
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082947781455692280",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nekokolife: お風呂入って蛇みたいになってた猫 https://t.co/OQloV5Mtxz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-10T14:39:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Berkeley, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.27275,
+                  37.87159
+                ],
+                "type": "Point"
+              },
+              "locality": "Berkeley",
+              "region": "California",
+              "sub_region": "Alameda County"
+            }
+          ]
+        },
+        "description": "喜欢小猫\n08 顺女 BPD/双相情感障碍 OD/SelfH/跨友好\n成分复杂 web3/美股/加密货币/摄影/音乐/文学/手游/端游… \n自行避雷 所有圈子都来找我互fo呀 喜欢你们",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hz11aaa_17",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hz11aaa_17",
+                "start": 0,
+                "url": "https://t.co/dfJR226cGS"
+              }
+            ]
+          }
+        },
+        "id": "1855621322220437504",
+        "location": "Berkeley, CA",
+        "name": "草履虫不会骑自行车",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083204784719593472/rzNjXLqh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 842,
+          "like_count": 2265,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 331
+        },
+        "url": "https://t.co/dfJR226cGS",
+        "username": "clcqzxc",
+        "verified": false
+      },
+      {
+        "created_at": "2010-12-11T21:30:34.000Z",
+        "description": "ネコさんが大好きな人はフォローして下さい🐱",
+        "id": "225551618",
+        "location": "No Cats No Life🐈",
+        "name": "Cat is life ~猫は人生~",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014167644933406720/f3TAbmTu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201046,
+          "following_count": 1080,
+          "like_count": 487,
+          "listed_count": 488,
+          "media_count": 6834,
+          "tweet_count": 185616
+        },
+        "url": "",
+        "username": "nekokolife",
+        "verified": true
+      }
+    ]
+  }
+}

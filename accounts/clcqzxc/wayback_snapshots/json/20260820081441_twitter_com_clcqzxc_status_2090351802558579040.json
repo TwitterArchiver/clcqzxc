@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090351790391001088"
+      ]
+    },
+    "author_id": "1855621322220437504",
+    "conversation_id": "2090351802558579040",
+    "created_at": "2026-08-20T08:14:41.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T09:14:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090351802558579040"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Kxu12J9SEs",
+          "end": 30,
+          "expanded_url": "https://x.com/clcqzxc/status/2090351802558579040/photo/1",
+          "media_key": "3_2090351790391001088",
+          "start": 7,
+          "url": "https://t.co/Kxu12J9SEs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090351802558579040",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090351790391001088"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哇 什么金矿 https://t.co/Kxu12J9SEs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2090351790391001088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQJr4NHbgAA6yC6.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090351790391001088"
+          ]
+        },
+        "author_id": "1855621322220437504",
+        "conversation_id": "2090351802558579040",
+        "created_at": "2026-08-20T08:14:41.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T09:14:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090351802558579040"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kxu12J9SEs",
+              "end": 30,
+              "expanded_url": "https://x.com/clcqzxc/status/2090351802558579040/photo/1",
+              "media_key": "3_2090351790391001088",
+              "start": 7,
+              "url": "https://t.co/Kxu12J9SEs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090351802558579040",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090351790391001088"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哇 什么金矿 https://t.co/Kxu12J9SEs"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-10T14:39:56.000Z",
+        "description": "喜欢小猫\n08 顺女 现生有男友 BPD/双相情感障碍 OD/SelfH/跨友好\n成分复杂 web3/美股/加密货币/摄影/音乐/文学/手游/端游… \n自行避雷 所有圈子都来找我互fo呀 喜欢你们",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hz11aaa_17",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hz11aaa_17",
+                "start": 0,
+                "url": "https://t.co/dfJR226cGS"
+              }
+            ]
+          }
+        },
+        "id": "1855621322220437504",
+        "is_identity_verified": false,
+        "location": "命運之外",
+        "most_recent_tweet_id": "2090351802558579040",
+        "name": "草履虫不会骑自行车",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1855621322220437504/1785509738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083204784719593472/rzNjXLqh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 946,
+          "like_count": 2775,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 395
+        },
+        "url": "https://t.co/dfJR226cGS",
+        "username": "clcqzxc",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

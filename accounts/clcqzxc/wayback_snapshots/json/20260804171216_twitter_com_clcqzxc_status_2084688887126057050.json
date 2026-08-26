@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1855621322220437504",
+    "conversation_id": "2084688887126057050",
+    "created_at": "2026-08-04T17:12:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T18:12:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084688887126057050"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1558070773864087552",
+          "start": 3,
+          "username": "sukimiku0831"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084688887126057050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084432194962096363",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sukimiku0831: 我们这种缺爱的人最好骗了，只要你愿意听我讲破烂事，愿意回我信息，每天和我互动，给我笑一笑，我就以为真爱降临呢。可实际上呢，你可能无聊的时候顺手回了个哈哈，我却连我们以后的故事都彩排了无数遍。我们总是习惯，把别人的社交礼貌当成私人偏爱，把偶尔的…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855621322220437504",
+        "conversation_id": "2084688887126057050",
+        "created_at": "2026-08-04T17:12:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T18:12:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084688887126057050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1558070773864087552",
+              "start": 3,
+              "username": "sukimiku0831"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084688887126057050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084432194962096363",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sukimiku0831: 我们这种缺爱的人最好骗了，只要你愿意听我讲破烂事，愿意回我信息，每天和我互动，给我笑一笑，我就以为真爱降临呢。可实际上呢，你可能无聊的时候顺手回了个哈哈，我却连我们以后的故事都彩排了无数遍。我们总是习惯，把别人的社交礼貌当成私人偏爱，把偶尔的…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1558070773864087552",
+        "conversation_id": "2084432194962096363",
+        "created_at": "2026-08-04T00:12:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T01:12:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084432194962096363"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084432194962096363",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我们这种缺爱的人最好骗了，只要你愿意听我讲破烂事，愿意回我信息，每天和我互动，给我笑一笑，我就以为真爱降临呢。可实际上呢，你可能无聊的时候顺手回了个哈哈，我却连我们以后的故事都彩排了无数遍。我们总是习惯，把别人的社交礼貌当成私人偏爱，把偶尔的施舍视作唯一的救赎。你知道飞蛾扑火挺傻的，但只要那一星半点的火光亮起，身体就是比脑子先一步，闭着眼撞过去，到最后才突然醒悟，你只是无聊时来我的世界散了散心，我却连一生的遗憾都攒够了。其实我也知道自己拿泛滥的深情挺廉价的，可我只是太想在这冷冰冰的世界里 被谁稳稳的接住一次，哪怕到头来那只是一场包装精美的错觉也甘之如饴"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 4376,
+          "like_count": 174,
+          "quote_count": 5,
+          "reply_count": 14,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "我们这种缺爱的人最好骗了，只要你愿意听我讲破烂事，愿意回我信息，每天和我互动，给我笑一笑，我就以为真爱降临呢。可实际上呢，你可能无聊的时候顺手回了个哈哈，我却连我们以后的故事都彩排了无数遍。我们总是习惯，把别人的社交礼貌当成私人偏爱，把偶尔的施舍视作唯一的救赎。你知道飞蛾扑火挺傻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-10T14:39:56.000Z",
+        "description": "喜欢小猫\n08 顺女 现生有男友 BPD/双相情感障碍 OD/SelfH/跨友好\n成分复杂 web3/美股/加密货币/摄影/音乐/文学/手游/端游… \n自行避雷 所有圈子都来找我互fo呀 喜欢你们",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hz11aaa_17",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hz11aaa_17",
+                "start": 0,
+                "url": "https://t.co/dfJR226cGS"
+              }
+            ]
+          }
+        },
+        "id": "1855621322220437504",
+        "location": "命運之外",
+        "name": "草履虫不会骑自行车",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083204784719593472/rzNjXLqh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 940,
+          "like_count": 2539,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 369
+        },
+        "url": "https://t.co/dfJR226cGS",
+        "username": "clcqzxc",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-12T12:40:06.000Z",
+        "description": "初音未来一生推！\n欢迎戳网站来匿名提问 \n最好的闺蜜 @4rulq\n蓝v互fo，有关必回，没回就是限制了\nMTF/重焦重郁/\n音游玩家，基本都玩，主要舞萌DX，中二节奏，pjsk\n爱折腾数码产品，米果双持\n二次元，爱看番，买谷，逛展\n爱听主要术曲术曲，jpop ，还有部分类型的摇滚，\n💊&🔪/愿大家都快快乐乐的活着",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 27,
+                "username": "4rulq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mikusuki0831",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mikusuki0831",
+                "start": 0,
+                "url": "https://t.co/2HiZZkQf1B"
+              }
+            ]
+          }
+        },
+        "id": "1558070773864087552",
+        "location": "在初音身边",
+        "name": "雨音羽ちゃん 🏳️‍⚧️",
+        "pinned_tweet_id": "2084247914256150882",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077510445297197056/2l_d9GNe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1253,
+          "following_count": 922,
+          "like_count": 56,
+          "listed_count": 2,
+          "media_count": 440,
+          "tweet_count": 959
+        },
+        "url": "https://t.co/2HiZZkQf1B",
+        "username": "sukimiku0831",
+        "verified": true
+      }
+    ]
+  }
+}

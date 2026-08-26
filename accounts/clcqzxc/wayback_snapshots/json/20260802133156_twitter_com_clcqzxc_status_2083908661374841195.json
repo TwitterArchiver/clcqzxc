@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1855621322220437504",
+    "conversation_id": "2083873823800320157",
+    "created_at": "2026-08-02T13:31:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T14:31:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083908661374841195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1904731881817735168",
+          "start": 0,
+          "username": "3e1diei0_oi7y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083908661374841195",
+    "in_reply_to_user_id": "1904731881817735168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083873823800320157",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3e1diei0_oi7y 没关系的，因为寂寞想找朋友玩是很正常的呀。对我来说，只要和朋友在一起就好幸福了，是因为什么没关系呢。有些残酷的讲，很多朋友都是功能性的，对方也可能没那么单纯（？所以不要觉得自己卑鄙啦。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855621322220437504",
+        "conversation_id": "2083873823800320157",
+        "created_at": "2026-08-02T13:31:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T14:31:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083908661374841195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1904731881817735168",
+              "start": 0,
+              "username": "3e1diei0_oi7y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083908661374841195",
+        "in_reply_to_user_id": "1904731881817735168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083873823800320157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3e1diei0_oi7y 没关系的，因为寂寞想找朋友玩是很正常的呀。对我来说，只要和朋友在一起就好幸福了，是因为什么没关系呢。有些残酷的讲，很多朋友都是功能性的，对方也可能没那么单纯（？所以不要觉得自己卑鄙啦。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904731881817735168",
+        "conversation_id": "2083873823800320157",
+        "created_at": "2026-08-02T11:13:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T12:13:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083873823800320157"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083873823800320157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "每次我心情痛苦的时候，就总是好想逃到别人身边去。\n我不喜欢自己会这样...因为我本来就是只有自己才对，明明是不需要任何人，自己一个人也完全可以。\n如果我只在感到寂寞的时候才会觉得自己需要朋友，这种心理不是很卑鄙吗。\n我想要和某人一起出去玩，想要一起吃饭，和某人一起捂住嘴巴噗嗤笑出来...\n明天的我一定会憎恨现在这样想象的自己。\n最重要的是...我有主人了，这样还不够吗？好讨厌。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 145,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每次我心情痛苦的时候，就总是好想逃到别人身边去。\n我不喜欢自己会这样...因为我本来就是只有自己才对，明明是不需要任何人，自己一个人也完全可以。\n如果我只在感到寂寞的时候才会觉得自己需要朋友，这种心理不是很卑鄙吗。\n我想要和某人一起出去玩，想要一起吃饭，和某人一起捂住嘴巴噗嗤笑出来..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-10T14:39:56.000Z",
+        "description": "喜欢小猫\n08 顺女 现生有男友 BPD/双相情感障碍 OD/SelfH/跨友好\n成分复杂 web3/美股/加密货币/摄影/音乐/文学/手游/端游… \n自行避雷 所有圈子都来找我互fo呀 喜欢你们",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hz11aaa_17",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hz11aaa_17",
+                "start": 0,
+                "url": "https://t.co/dfJR226cGS"
+              }
+            ]
+          }
+        },
+        "id": "1855621322220437504",
+        "location": "命運之外",
+        "name": "草履虫不会骑自行车",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083204784719593472/rzNjXLqh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 928,
+          "like_count": 2495,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 365
+        },
+        "url": "https://t.co/dfJR226cGS",
+        "username": "clcqzxc",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-26T03:07:31.000Z",
+        "description": "愛，愛，愛",
+        "id": "1904731881817735168",
+        "name": "L4crim_0se9v",
+        "pinned_tweet_id": "2074083499922047374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076981039357128705/hmY4LgMd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 615,
+          "like_count": 28639,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 803
+        },
+        "url": "",
+        "username": "3e1diei0_oi7y",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1855621322220437504",
+    "conversation_id": "2087571781544743314",
+    "created_at": "2026-08-12T18:01:51.000Z",
+    "display_text_range": [
+      9,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T19:01:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087600466062708972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1833144133709713408",
+          "start": 0,
+          "username": "xmlxiny"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087600466062708972",
+    "in_reply_to_user_id": "1833144133709713408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087571781544743314",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xmlxiny 生日快乐！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855621322220437504",
+        "conversation_id": "2087571781544743314",
+        "created_at": "2026-08-12T18:01:51.000Z",
+        "display_text_range": [
+          9,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T19:01:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087600466062708972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1833144133709713408",
+              "start": 0,
+              "username": "xmlxiny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087600466062708972",
+        "in_reply_to_user_id": "1833144133709713408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087571781544743314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xmlxiny 生日快乐！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1833144133709713408",
+        "conversation_id": "2087571781544743314",
+        "created_at": "2026-08-12T16:07:52.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T17:07:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087571781544743314"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087571781544743314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7327,
+          "like_count": 100,
+          "quote_count": 0,
+          "reply_count": 175,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实今天是我的生日"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-10T14:39:56.000Z",
+        "description": "喜欢小猫\n08 顺女 现生有男友 BPD/双相情感障碍 OD/SelfH/跨友好\n成分复杂 web3/美股/加密货币/摄影/音乐/文学/手游/端游… \n自行避雷 所有圈子都来找我互fo呀 喜欢你们",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hz11aaa_17",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hz11aaa_17",
+                "start": 0,
+                "url": "https://t.co/dfJR226cGS"
+              }
+            ]
+          }
+        },
+        "id": "1855621322220437504",
+        "is_identity_verified": false,
+        "location": "命運之外",
+        "most_recent_tweet_id": "2087600466062708972",
+        "name": "草履虫不会骑自行车",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1855621322220437504/1785509738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083204784719593472/rzNjXLqh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 964,
+          "like_count": 2755,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 391
+        },
+        "url": "https://t.co/dfJR226cGS",
+        "username": "clcqzxc",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-09T14:03:30.000Z",
+        "description": "",
+        "id": "1833144133709713408",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087590722363109419",
+        "name": "我好想哭",
+        "pinned_tweet_id": "1954092877857927419",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1833144133709713408/1786116729",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086082449516396544/AdAv49fv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 198,
+          "like_count": 5668,
+          "listed_count": 0,
+          "media_count": 190,
+          "tweet_count": 2446
+        },
+        "url": "",
+        "username": "xmlxiny",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

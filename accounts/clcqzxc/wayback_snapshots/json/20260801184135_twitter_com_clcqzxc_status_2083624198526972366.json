@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1855621322220437504",
+    "conversation_id": "2083624198526972366",
+    "created_at": "2026-08-01T18:41:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T19:41:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083624198526972366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1987786627545174016",
+          "start": 3,
+          "username": "qyl123938"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083624198526972366",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 141
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083187325639753829",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qyl123938: 我们能不能回到第一次对彼此产生兴趣的那个夜晚 我好想你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855621322220437504",
+        "conversation_id": "2083624198526972366",
+        "created_at": "2026-08-01T18:41:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T19:41:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083624198526972366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1987786627545174016",
+              "start": 3,
+              "username": "qyl123938"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083624198526972366",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 141
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083187325639753829",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qyl123938: 我们能不能回到第一次对彼此产生兴趣的那个夜晚 我好想你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987786627545174016",
+        "conversation_id": "2083187325639753829",
+        "created_at": "2026-07-31T13:45:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T14:45:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083187325639753829"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083187325639753829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 48902,
+          "like_count": 843,
+          "quote_count": 23,
+          "reply_count": 175,
+          "retweet_count": 141
+        },
+        "reply_settings": "everyone",
+        "text": "我们能不能回到第一次对彼此产生兴趣的那个夜晚 我好想你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-10T14:39:56.000Z",
+        "description": "喜欢小猫\n08 顺女 现生有男友 BPD/双相情感障碍 OD/SelfH/跨友好\n成分复杂 web3/美股/加密货币/摄影/音乐/文学/手游/端游… \n自行避雷 所有圈子都来找我互fo呀 喜欢你们",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hz11aaa_17",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hz11aaa_17",
+                "start": 0,
+                "url": "https://t.co/dfJR226cGS"
+              }
+            ]
+          }
+        },
+        "id": "1855621322220437504",
+        "location": "命運之外",
+        "name": "草履虫不会骑自行车",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083204784719593472/rzNjXLqh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 919,
+          "like_count": 2447,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 357
+        },
+        "url": "https://t.co/dfJR226cGS",
+        "username": "clcqzxc",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-10T07:37:37.000Z",
+        "description": "叫我依依就好呀｜碎碎念日记ovo｜宝宝们来找我玩！",
+        "id": "1987786627545174016",
+        "location": "不加v（互fo的小宝宝可以呀",
+        "name": "装0和男神砰砰砰",
+        "pinned_tweet_id": "2040703820192448631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015418449858867200/1VQWO5wY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 892,
+          "following_count": 133,
+          "like_count": 20155,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 1140
+        },
+        "url": "",
+        "username": "qyl123938",
+        "verified": false
+      }
+    ]
+  }
+}

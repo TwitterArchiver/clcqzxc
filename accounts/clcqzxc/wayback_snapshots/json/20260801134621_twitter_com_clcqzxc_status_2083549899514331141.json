@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1855621322220437504",
+    "conversation_id": "2083489147113853272",
+    "created_at": "2026-08-01T13:46:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T14:46:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083549899514331141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1697666337005506561",
+          "start": 0,
+          "username": "xianglingmao26"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083549899514331141",
+    "in_reply_to_user_id": "1697666337005506561",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083489147113853272",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xianglingmao26 可以礼貌问一下这是什么软件吗🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083489133784440832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOoKVBCboAAfbf5.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855621322220437504",
+        "conversation_id": "2083489147113853272",
+        "created_at": "2026-08-01T13:46:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T14:46:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083549899514331141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1697666337005506561",
+              "start": 0,
+              "username": "xianglingmao26"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083549899514331141",
+        "in_reply_to_user_id": "1697666337005506561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083489147113853272",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xianglingmao26 可以礼貌问一下这是什么软件吗🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083489133784440832"
+          ]
+        },
+        "author_id": "1697666337005506561",
+        "conversation_id": "2083489147113853272",
+        "created_at": "2026-08-01T09:44:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T10:44:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083489147113853272"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N1Pcoxa9X9",
+              "end": 33,
+              "expanded_url": "https://x.com/xianglingmao26/status/2083489147113853272/photo/1",
+              "media_key": "3_2083489133784440832",
+              "start": 10,
+              "url": "https://t.co/N1Pcoxa9X9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083489147113853272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "会飞的中国人，加油 https://t.co/N1Pcoxa9X9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-10T14:39:56.000Z",
+        "description": "喜欢小猫\n08 顺女 现生有男友 BPD/双相情感障碍 OD/SelfH/跨友好\n成分复杂 web3/美股/加密货币/摄影/音乐/文学/手游/端游… \n自行避雷 所有圈子都来找我互fo呀 喜欢你们",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hz11aaa_17",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hz11aaa_17",
+                "start": 0,
+                "url": "https://t.co/dfJR226cGS"
+              }
+            ]
+          }
+        },
+        "id": "1855621322220437504",
+        "location": "命運之外",
+        "name": "草履虫不会骑自行车",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083204784719593472/rzNjXLqh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 889,
+          "like_count": 2390,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 350
+        },
+        "url": "https://t.co/dfJR226cGS",
+        "username": "clcqzxc",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-01T17:43:07.000Z",
+        "description": "🚪180｜想成为一个被爱包裹的小女孩~ 婉拒短期恋爱关系，fwb，ons",
+        "id": "1697666337005506561",
+        "location": "Kanagawa-ken, Japan",
+        "name": "响铃猫",
+        "pinned_tweet_id": "2077906331495956811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1697666540592902144/f8bu3Mbb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 156,
+          "like_count": 212,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 150
+        },
+        "url": "",
+        "username": "xianglingmao26",
+        "verified": false
+      }
+    ]
+  }
+}
