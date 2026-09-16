@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097430461803114496"
+      ]
+    },
+    "author_id": "1855621322220437504",
+    "conversation_id": "2097430472498499931",
+    "created_at": "2026-09-08T21:02:47.000Z",
+    "display_text_range": [
+      0,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T22:02:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097430472498499931"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tH9avUa3Pz",
+          "end": 55,
+          "expanded_url": "https://x.com/clcqzxc/status/2097430472498499931/photo/1",
+          "media_key": "3_2097430461803114496",
+          "start": 32,
+          "url": "https://t.co/tH9avUa3Pz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097430472498499931",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2097430461803114496"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "g老师我哭了 有时候成长不一定要经历痛苦呀…我就没那个好运了。 https://t.co/tH9avUa3Pz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 787,
+        "media_key": "3_2097430461803114496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRuR5HDbsAAGMsS.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097430461803114496"
+          ]
+        },
+        "author_id": "1855621322220437504",
+        "conversation_id": "2097430472498499931",
+        "created_at": "2026-09-08T21:02:47.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T22:02:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097430472498499931"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tH9avUa3Pz",
+              "end": 55,
+              "expanded_url": "https://x.com/clcqzxc/status/2097430472498499931/photo/1",
+              "media_key": "3_2097430461803114496",
+              "start": 32,
+              "url": "https://t.co/tH9avUa3Pz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097430472498499931",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097430461803114496"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "g老师我哭了 有时候成长不一定要经历痛苦呀…我就没那个好运了。 https://t.co/tH9avUa3Pz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-10T14:39:56.000Z",
+        "description": "喜欢小猫\n08 顺女 现生有男友 BPD/双相情感障碍 OD/SelfH/跨友好\n成分复杂 web3/美股/加密货币/摄影/音乐/文学/手游/端游… \n自行避雷 所有圈子都来找我互fo呀 喜欢你们",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hz11aaa_17",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hz11aaa_17",
+                "start": 0,
+                "url": "https://t.co/dfJR226cGS"
+              }
+            ]
+          }
+        },
+        "id": "1855621322220437504",
+        "is_identity_verified": false,
+        "location": "命運之外",
+        "most_recent_tweet_id": "2097430472498499931",
+        "name": "草履虫不会骑自行车",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1855621322220437504/1785509738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083204784719593472/rzNjXLqh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 955,
+          "like_count": 2804,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 399
+        },
+        "url": "https://t.co/dfJR226cGS",
+        "username": "clcqzxc",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

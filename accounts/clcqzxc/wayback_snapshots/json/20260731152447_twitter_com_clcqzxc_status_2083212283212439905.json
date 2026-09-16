@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1855621322220437504",
+    "conversation_id": "2083212283212439905",
+    "created_at": "2026-07-31T15:24:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T16:24:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083212283212439905"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1950475198190551040",
+          "start": 3,
+          "username": "NnP1b5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083212283212439905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 103
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082853882074644859",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NnP1b5: 中国人 请克制住每一个想飞的瞬间"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855621322220437504",
+        "conversation_id": "2083212283212439905",
+        "created_at": "2026-07-31T15:24:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T16:24:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083212283212439905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1950475198190551040",
+              "start": 3,
+              "username": "NnP1b5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083212283212439905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 103
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082853882074644859",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NnP1b5: 中国人 请克制住每一个想飞的瞬间"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1950475198190551040",
+        "conversation_id": "2082853882074644859",
+        "created_at": "2026-07-30T15:40:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T16:40:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082853882074644859"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082853882074644859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 293476,
+          "like_count": 2511,
+          "quote_count": 18,
+          "reply_count": 633,
+          "retweet_count": 103
+        },
+        "reply_settings": "everyone",
+        "text": "中国人 请克制住每一个想飞的瞬间"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-10T14:39:56.000Z",
+        "description": "喜欢小猫\n08 顺女 BPD/双相情感障碍 OD/SelfH/跨友好\n成分复杂 web3/美股/加密货币/摄影/音乐/文学/手游/端游… \n自行避雷 所有圈子都来找我互fo呀 喜欢你们",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hz11aaa_17",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hz11aaa_17",
+                "start": 0,
+                "url": "https://t.co/dfJR226cGS"
+              }
+            ]
+          }
+        },
+        "id": "1855621322220437504",
+        "location": "命運之外",
+        "name": "草履虫不会骑自行车",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083204784719593472/rzNjXLqh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 848,
+          "like_count": 2284,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 336
+        },
+        "url": "https://t.co/dfJR226cGS",
+        "username": "clcqzxc",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-30T08:35:31.000Z",
+        "description": "拥抱我直至肋骨断裂\n我只是一个很呆萌的农村人。好懵逼啊。\n双性恋｜switch\n⬇️匿名",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B2%811",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B2%811",
+                "start": 0,
+                "url": "https://t.co/LlW2uRDXS3"
+              }
+            ]
+          }
+        },
+        "id": "1950475198190551040",
+        "location": "距离1314米",
+        "name": "一只邪恶的肋骨",
+        "pinned_tweet_id": "2080235336438034720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059337103264092161/ak5lpiFh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2103,
+          "following_count": 90,
+          "like_count": 1881,
+          "listed_count": 4,
+          "media_count": 80,
+          "tweet_count": 619
+        },
+        "url": "https://t.co/LlW2uRDXS3",
+        "username": "NnP1b5",
+        "verified": false
+      }
+    ]
+  }
+}
